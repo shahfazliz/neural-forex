@@ -4,12 +4,14 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "(echo \"Testing\" && node ./controller/test.js) && title Test"
+    "test": "(echo \"Testing\" && node ./controller/test.js) && title Test",
+    "updatedata": "(echo \"Update data\" && node ./controller/updateData.js) && title Update data"
   },
   "author": "",
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "moment": "^2.29.1"
   }
 }

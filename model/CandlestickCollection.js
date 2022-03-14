@@ -8,7 +8,7 @@ export default function CandlestickCollection() {
 
 CandlestickCollection.prototype.push = function(candlestick) {
     // calculate diff
-    if (!ArrayFn.isEmpty(this.__collection)) {
+    if (!this.isEmpty()) {
         const previousCandlestick = this.getLastCandlestick();
         const previousCandlestickClose = previousCandlestick.getClose();
         const previousCandlestickVolume = previousCandlestick.getVolume();
@@ -52,4 +52,24 @@ CandlestickCollection.prototype.getLastCandlestick = function () {
 
 CandlestickCollection.prototype.hasCandlesticksMoreThanOneYear = function () {
     return this.__collection.length > NUMBER_OF_CANDLESTICKS_A_YEAR;
+}
+
+CandlestickCollection.prototype.isEmpty = function () {
+    return ArrayFn.isEmpty(this.__collection);
+}
+
+CandlestickCollection.prototype.forEach = function(callback) {
+    return this
+        .__collection
+        .forEach(callback);
+}
+
+CandlestickCollection.prototype.toString = function () {
+    return JSON.stringify(
+        this
+            .__collection
+            .map(candlestick => candlestick.raw()),
+        undefined,
+        4
+    );
 }

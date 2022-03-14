@@ -13,7 +13,7 @@ PolygonAPI.prototype.getDailyCandlestickCollection = function({
 }) {
     return HTTPAdaptor
         .get(
-            `https://api.polygon.io/v2/aggs/ticker/${symbol}/range/1/day/${startDate}/${endDate}`,
+            `https://api.polygon.io/v2/aggs/ticker/C:${symbol}/range/1/day/${startDate}/${endDate}`,
             {
                 headers: {
                     Authorization: process.env.POLYGON_API,

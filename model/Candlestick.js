@@ -1,28 +1,30 @@
+import DateTimeAdaptor from '../utilities/DateTimeAdaptor.js';
 export default function Candlestick({
     close,
     high,
     low,
     open,
+    standardDeviation = 'N/A',
     timestamp,
     volume,
+    volumeProfile = 'N/A',
 }) {
-    this.__standardDeviation = 'N/A';
-
     this.__closeDiff = 'N/A';
     this.__highDiff = 'N/A';
     this.__lowDiff = 'N/A';
     this.__openDiff = 'N/A';
     this.__volumeDiff = 'N/A';
-
-    this.__volumeProfile = 'N/A';
     this.__volumeProfileDiff = 'N/A';
-
+    
+    
     this.__close = close;
     this.__high = high;
     this.__low = low;
     this.__open = open;
-    this.__timestamp = timestamp;
+    this.__standardDeviation = standardDeviation;
+    this.__timestamp = new DateTimeAdaptor(timestamp);
     this.__volume = volume;
+    this.__volumeProfile = volumeProfile;
 }
 
 Candlestick.prototype.setStandardDeviation = function(value) {
@@ -101,4 +103,17 @@ Candlestick.prototype.getOpenDiff = function () {
 
 Candlestick.prototype.getVolumeDiff = function () {
     return this.__volumeDiff;
+}
+
+Candlestick.prototype.raw = function() {
+    return {
+        close: this.__close,
+        high: this.__high,
+        low: this.__low,
+        open: this.__open,
+        standardDeviation: this.__standardDeviation,
+        timestamp: this.__timestamp.valueOf(),
+        volume: this.__volume,
+        volumeProfile: this.__volumeProfile,
+    };
 }
