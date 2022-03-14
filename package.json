@@ -1,0 +1,15 @@
+{
+  "name": "neural-forex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "(echo \"Testing\" && node ./controller/test.js) && title Test"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
