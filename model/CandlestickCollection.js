@@ -4,6 +4,7 @@ import MathFn from '../utilities/MathFn.js';
 const NUMBER_OF_CANDLESTICKS_A_YEAR = 252; // To calculate standard deviation
 export default function CandlestickCollection() {
     this.__collection = [];
+    this.__volumeProfile = new Map();
 }
 
 CandlestickCollection.prototype.push = function(candlestick) {
@@ -25,7 +26,7 @@ CandlestickCollection.prototype.push = function(candlestick) {
     if (this.hasCandlesticksMoreThanOneYear()) {
         const oneYearCollection = this
             .__collection
-            .slice(this.__collection.length - NUMBER_OF_CANDLESTICKS_A_YEAR);
+            .slice(this.length() - NUMBER_OF_CANDLESTICKS_A_YEAR);
 
         const standardDeviation = MathFn
             .standardDeviation(oneYearCollection
@@ -38,12 +39,37 @@ CandlestickCollection.prototype.push = function(candlestick) {
         candlestick.setStandardDeviation(standardDeviation);
     }
 
+    // update volume profile
+    this.updateVolumeProfile(candlestick);
+
     this.__collection.push(candlestick);
     return this;
 }
 
-CandlestickCollection.prototype.updateVolumeProfile = function () {
+CandlestickCollection.prototype.updateVolumeProfile = function (candlestick) {
+    let priceLevels = new Map();
+    for (let price = candlestick.getLow(); price <= candlestick.getHigh(); price = MathFn.precision(price + 0.00001)) {
+        priceLevels.set(`${price}`, 0);
+    }
+
+    const averageVolumePerPriceLevel = candlestick.getVolume() / priceLevels.size;
+
+    priceLevels.forEach((volume, price) => {
+        this.__volumeProfile.set(
+            `${price}`,
+            this.__volumeProfile.has(`${price}`)
+                ? this.__volumeProfile.get(`${price}`) + averageVolumePerPriceLevel
+                : averageVolumePerPriceLevel,
+        );
+    });
+
     return this;
+}
+
+CandlestickCollection.prototype.getVolumeProfile = function (price) {
+    return this
+        .__volumeProfile
+        .get(`${price}`);
 }
 
 CandlestickCollection.prototype.getLastCandlestick = function () {
@@ -51,7 +77,7 @@ CandlestickCollection.prototype.getLastCandlestick = function () {
 }
 
 CandlestickCollection.prototype.hasCandlesticksMoreThanOneYear = function () {
-    return this.__collection.length > NUMBER_OF_CANDLESTICKS_A_YEAR;
+    return this.length() > NUMBER_OF_CANDLESTICKS_A_YEAR;
 }
 
 CandlestickCollection.prototype.isEmpty = function () {
@@ -72,4 +98,36 @@ CandlestickCollection.prototype.toString = function () {
         undefined,
         4
     );
+}
+
+CandlestickCollection.prototype.length = function () {
+    return this
+        .__collection
+        .length;
+}
+
+CandlestickCollection.prototype.getByIndex = function(index) {
+    return this.__collection[index];
+}
+
+CandlestickCollection.prototype.setAllVolumeProfile = function () {
+    for (let i = 0; i < this.length(); i++) {
+        const candlestick = this.getByIndex(i);
+
+        candlestick
+            .setVolumeProfile(this
+                .getVolumeProfile(candlestick.getClose()));
+
+        if (i > 0) {
+            const previousCandlestickVolumeProfile = this
+                .getByIndex(i - 1)
+                .getVolumeProfile();
+
+            candlestick
+                .setVolumeProfileDiff(Math
+                    .log(candlestick.getVolumeProfile() / previousCandlestickVolumeProfile));
+        }
+    }
+
+    return this;
 }

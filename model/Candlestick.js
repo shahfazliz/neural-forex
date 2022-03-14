@@ -16,7 +16,6 @@ export default function Candlestick({
     this.__volumeDiff = 'N/A';
     this.__volumeProfileDiff = 'N/A';
     
-    
     this.__close = close;
     this.__high = high;
     this.__low = low;
@@ -29,6 +28,11 @@ export default function Candlestick({
 
 Candlestick.prototype.setStandardDeviation = function(value) {
     this.__standardDeviation = value;
+    return this;
+}
+
+Candlestick.prototype.setVolumeProfile = function(value) {
+    this.__volumeProfile = value;
     return this;
 }
 
@@ -60,6 +64,10 @@ Candlestick.prototype.getStandardDeviation = function () {
     return this.__standardDeviation;
 }
 
+Candlestick.prototype.getVolumeProfile = function () {
+    return this.__volumeProfile;
+}
+
 Candlestick.prototype.setCloseDiff = function(value) {
     this.__closeDiff = value;
     return this;
@@ -85,6 +93,11 @@ Candlestick.prototype.setVolumeDiff = function(value) {
     return this;
 }
 
+Candlestick.prototype.setVolumeProfileDiff = function(value) {
+    this.__volumeProfileDiff = value;
+    return this;
+}
+
 Candlestick.prototype.getCloseDiff = function () {
     return this.__closeDiff;
 }
@@ -105,6 +118,10 @@ Candlestick.prototype.getVolumeDiff = function () {
     return this.__volumeDiff;
 }
 
+Candlestick.prototype.getVolumeProfileDiff = function () {
+    return this.__volumeProfileDiff;
+}
+
 Candlestick.prototype.raw = function() {
     return {
         close: this.__close,
@@ -115,5 +132,12 @@ Candlestick.prototype.raw = function() {
         timestamp: this.__timestamp.valueOf(),
         volume: this.__volume,
         volumeProfile: this.__volumeProfile,
+
+        // closeDiff: this.__closeDiff,
+        // highDiff: this.__highDiff,
+        // lowDiff: this.__lowDiff,
+        // openDiff: this.__openDiff,
+        // volumeDiff: this.__volumeDiff,
+        // volumeProfileDiff: this.__volumeProfileDiff,
     };
 }

@@ -44,6 +44,9 @@ function updateData(symbol) {
                         return candlestickCollection;
                     })
                     // update volume profile
+                    .then(candlestickCollection => {
+                        return candlestickCollection.setAllVolumeProfile();
+                    })
                     // save into collection into file
                     .then(candlestickCollection => {
                         return CollectionService.writeCandlestickCollectionIntoJSONFile({

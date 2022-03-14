@@ -14,10 +14,10 @@ function readJSONFileAsCandlestickCollection(symbol) {
             const candlestickCollection = new CandlestickCollection();
             
             rawCandlestickCollection.forEach(rawCandlestick => {
-                candlestickCollection.push(new Candlestick(rawCandlestick))
+                candlestickCollection.push(new Candlestick(rawCandlestick));
             });
 
-            return candlestickCollection;
+            return candlestickCollection.setAllVolumeProfile();
         })
 }
 
