@@ -2534,7 +2534,7 @@
         "high": 103.443,
         "low": 102.675,
         "open": 102.82,
-        "standardDeviation": null,
+        "standardDeviation": 0.00399,
         "timestamp": 1609891200000,
         "volume": 269345,
         "volumeProfile": "N/A"
@@ -2544,7 +2544,7 @@
         "high": 103.999,
         "low": 103.125,
         "open": 103.127,
-        "standardDeviation": null,
+        "standardDeviation": 0.00399,
         "timestamp": 1609977600000,
         "volume": 232991,
         "volumeProfile": "N/A"
@@ -2554,7 +2554,7 @@
         "high": 104.09,
         "low": 103.601,
         "open": 103.806,
-        "standardDeviation": null,
+        "standardDeviation": 0.004,
         "timestamp": 1610064000000,
         "volume": 113965,
         "volumeProfile": "N/A"
@@ -2564,7 +2564,7 @@
         "high": 103.93,
         "low": 103.926,
         "open": 103.93,
-        "standardDeviation": null,
+        "standardDeviation": 0.00379,
         "timestamp": 1610150400000,
         "volume": 4,
         "volumeProfile": "N/A"
@@ -2574,7 +2574,7 @@
         "high": 104.095,
         "low": 103.713,
         "open": 103.713,
-        "standardDeviation": null,
+        "standardDeviation": 0.00376,
         "timestamp": 1610236800000,
         "volume": 2831,
         "volumeProfile": "N/A"
@@ -2584,7 +2584,7 @@
         "high": 104.398,
         "low": 104.003,
         "open": 104.083,
-        "standardDeviation": null,
+        "standardDeviation": 0.00374,
         "timestamp": 1610323200000,
         "volume": 87222,
         "volumeProfile": "N/A"
@@ -2594,7 +2594,7 @@
         "high": 104.332,
         "low": 103.71,
         "open": 104.142,
-        "standardDeviation": null,
+        "standardDeviation": 0.00374,
         "timestamp": 1610409600000,
         "volume": 90268,
         "volumeProfile": "N/A"
@@ -2604,7 +2604,7 @@
         "high": 103.997,
         "low": 103.519,
         "open": 103.745,
-        "standardDeviation": null,
+        "standardDeviation": 0.00374,
         "timestamp": 1610496000000,
         "volume": 87315,
         "volumeProfile": "N/A"
@@ -2614,7 +2614,7 @@
         "high": 104.197,
         "low": 103.557,
         "open": 103.819,
-        "standardDeviation": null,
+        "standardDeviation": 0.00371,
         "timestamp": 1610582400000,
         "volume": 97848,
         "volumeProfile": "N/A"
@@ -2624,7 +2624,7 @@
         "high": 103.915,
         "low": 103.61,
         "open": 103.837,
-        "standardDeviation": null,
+        "standardDeviation": 0.00371,
         "timestamp": 1610668800000,
         "volume": 77042,
         "volumeProfile": "N/A"
@@ -2634,7 +2634,7 @@
         "high": 103.87,
         "low": 103.78,
         "open": 103.78,
-        "standardDeviation": null,
+        "standardDeviation": 0.00347,
         "timestamp": 1610755200000,
         "volume": 9,
         "volumeProfile": "N/A"
@@ -2644,7 +2644,7 @@
         "high": 103.924,
         "low": 103.705,
         "open": 103.725,
-        "standardDeviation": null,
+        "standardDeviation": 0.00346,
         "timestamp": 1610841600000,
         "volume": 2316,
         "volumeProfile": "N/A"
@@ -2654,7 +2654,7 @@
         "high": 103.93,
         "low": 103.622,
         "open": 103.914,
-        "standardDeviation": null,
+        "standardDeviation": 0.00345,
         "timestamp": 1610928000000,
         "volume": 80329,
         "volumeProfile": "N/A"
@@ -2664,7 +2664,7 @@
         "high": 104.085,
         "low": 103.64,
         "open": 103.705,
-        "standardDeviation": null,
+        "standardDeviation": 0.00339,
         "timestamp": 1611014400000,
         "volume": 82750,
         "volumeProfile": "N/A"
@@ -2674,7 +2674,7 @@
         "high": 103.93,
         "low": 103.444,
         "open": 103.897,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1611100800000,
         "volume": 83121,
         "volumeProfile": "N/A"
@@ -2684,7 +2684,7 @@
         "high": 103.667,
         "low": 103.302,
         "open": 103.556,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1611187200000,
         "volume": 87403,
         "volumeProfile": "N/A"
@@ -2694,7 +2694,7 @@
         "high": 103.885,
         "low": 103.226,
         "open": 103.509,
-        "standardDeviation": null,
+        "standardDeviation": 0.00336,
         "timestamp": 1611273600000,
         "volume": 75952,
         "volumeProfile": "N/A"
@@ -2704,7 +2704,7 @@
         "high": 103.827,
         "low": 103.714,
         "open": 103.753,
-        "standardDeviation": null,
+        "standardDeviation": 0.00336,
         "timestamp": 1611446400000,
         "volume": 2906,
         "volumeProfile": "N/A"
@@ -2714,7 +2714,7 @@
         "high": 103.937,
         "low": 103.663,
         "open": 103.785,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1611532800000,
         "volume": 73584,
         "volumeProfile": "N/A"
@@ -2724,7 +2724,7 @@
         "high": 103.829,
         "low": 103.54,
         "open": 103.761,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1611619200000,
         "volume": 74127,
         "volumeProfile": "N/A"
@@ -2734,7 +2734,7 @@
         "high": 104.199,
         "low": 103.58,
         "open": 103.598,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1611705600000,
         "volume": 89879,
         "volumeProfile": "N/A"
@@ -2744,7 +2744,7 @@
         "high": 104.465,
         "low": 104.09,
         "open": 104.141,
-        "standardDeviation": null,
+        "standardDeviation": 0.00336,
         "timestamp": 1611792000000,
         "volume": 95764,
         "volumeProfile": "N/A"
@@ -2754,7 +2754,7 @@
         "high": 104.941,
         "low": 104.269,
         "open": 104.3,
-        "standardDeviation": null,
+        "standardDeviation": 0.00335,
         "timestamp": 1611878400000,
         "volume": 94440,
         "volumeProfile": "N/A"
@@ -2764,7 +2764,7 @@
         "high": 104.69,
         "low": 104.68,
         "open": 104.69,
-        "standardDeviation": null,
+        "standardDeviation": 0.00335,
         "timestamp": 1611964800000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -2774,7 +2774,7 @@
         "high": 104.818,
         "low": 104.672,
         "open": 104.69,
-        "standardDeviation": null,
+        "standardDeviation": 0.00335,
         "timestamp": 1612051200000,
         "volume": 6785,
         "volumeProfile": "N/A"
@@ -2784,7 +2784,7 @@
         "high": 105.037,
         "low": 104.58,
         "open": 104.714,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1612137600000,
         "volume": 73903,
         "volumeProfile": "N/A"
@@ -2794,7 +2794,7 @@
         "high": 105.173,
         "low": 104.81,
         "open": 104.882,
-        "standardDeviation": null,
+        "standardDeviation": 0.00333,
         "timestamp": 1612224000000,
         "volume": 82526,
         "volumeProfile": "N/A"
@@ -2804,7 +2804,7 @@
         "high": 105.105,
         "low": 104.894,
         "open": 105.027,
-        "standardDeviation": null,
+        "standardDeviation": 0.00329,
         "timestamp": 1612310400000,
         "volume": 68103,
         "volumeProfile": "N/A"
@@ -2814,7 +2814,7 @@
         "high": 105.649,
         "low": 104.96,
         "open": 104.994,
-        "standardDeviation": null,
+        "standardDeviation": 0.00329,
         "timestamp": 1612396800000,
         "volume": 75263,
         "volumeProfile": "N/A"
@@ -2824,7 +2824,7 @@
         "high": 105.769,
         "low": 105.235,
         "open": 105.572,
-        "standardDeviation": null,
+        "standardDeviation": 0.00331,
         "timestamp": 1612483200000,
         "volume": 76239,
         "volumeProfile": "N/A"
@@ -2834,7 +2834,7 @@
         "high": 105.433,
         "low": 105.324,
         "open": 105.329,
-        "standardDeviation": null,
+        "standardDeviation": 0.0033,
         "timestamp": 1612656000000,
         "volume": 5935,
         "volumeProfile": "N/A"
@@ -2844,7 +2844,7 @@
         "high": 105.672,
         "low": 105.131,
         "open": 105.395,
-        "standardDeviation": null,
+        "standardDeviation": 0.0033,
         "timestamp": 1612742400000,
         "volume": 74693,
         "volumeProfile": "N/A"
@@ -2854,7 +2854,7 @@
         "high": 105.228,
         "low": 104.461,
         "open": 105.213,
-        "standardDeviation": null,
+        "standardDeviation": 0.0033,
         "timestamp": 1612828800000,
         "volume": 58314,
         "volumeProfile": "N/A"
@@ -2864,7 +2864,7 @@
         "high": 104.842,
         "low": 104.394,
         "open": 104.582,
-        "standardDeviation": null,
+        "standardDeviation": 0.00332,
         "timestamp": 1612915200000,
         "volume": 75746,
         "volumeProfile": "N/A"
@@ -2874,7 +2874,7 @@
         "high": 104.805,
         "low": 104.521,
         "open": 104.618,
-        "standardDeviation": null,
+        "standardDeviation": 0.00332,
         "timestamp": 1613001600000,
         "volume": 59281,
         "volumeProfile": "N/A"
@@ -2884,7 +2884,7 @@
         "high": 105.181,
         "low": 104.7,
         "open": 104.75,
-        "standardDeviation": null,
+        "standardDeviation": 0.00332,
         "timestamp": 1613088000000,
         "volume": 59811,
         "volumeProfile": "N/A"
@@ -2894,7 +2894,7 @@
         "high": 104.951,
         "low": 104.93,
         "open": 104.951,
-        "standardDeviation": null,
+        "standardDeviation": 0.00332,
         "timestamp": 1613174400000,
         "volume": 3,
         "volumeProfile": "N/A"
@@ -2904,7 +2904,7 @@
         "high": 105.081,
         "low": 104.884,
         "open": 104.926,
-        "standardDeviation": null,
+        "standardDeviation": 0.00332,
         "timestamp": 1613260800000,
         "volume": 5288,
         "volumeProfile": "N/A"
@@ -2914,7 +2914,7 @@
         "high": 105.417,
         "low": 104.93,
         "open": 105.061,
-        "standardDeviation": null,
+        "standardDeviation": 0.00329,
         "timestamp": 1613347200000,
         "volume": 63041,
         "volumeProfile": "N/A"
@@ -2924,7 +2924,7 @@
         "high": 106.224,
         "low": 105.17,
         "open": 105.374,
-        "standardDeviation": null,
+        "standardDeviation": 0.0033,
         "timestamp": 1613433600000,
         "volume": 91559,
         "volumeProfile": "N/A"
@@ -2934,7 +2934,7 @@
         "high": 106.213,
         "low": 105.77,
         "open": 106.119,
-        "standardDeviation": null,
+        "standardDeviation": 0.00331,
         "timestamp": 1613520000000,
         "volume": 94847,
         "volumeProfile": "N/A"
@@ -2944,7 +2944,7 @@
         "high": 105.97,
         "low": 105.593,
         "open": 105.855,
-        "standardDeviation": null,
+        "standardDeviation": 0.00331,
         "timestamp": 1613606400000,
         "volume": 78348,
         "volumeProfile": "N/A"
@@ -2954,7 +2954,7 @@
         "high": 105.742,
         "low": 105.028,
         "open": 105.652,
-        "standardDeviation": null,
+        "standardDeviation": 0.00331,
         "timestamp": 1613692800000,
         "volume": 73927,
         "volumeProfile": "N/A"
@@ -2964,7 +2964,7 @@
         "high": 105.43,
         "low": 105.4,
         "open": 105.43,
-        "standardDeviation": null,
+        "standardDeviation": 0.00331,
         "timestamp": 1613779200000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -2974,7 +2974,7 @@
         "high": 105.622,
         "low": 105.333,
         "open": 105.396,
-        "standardDeviation": null,
+        "standardDeviation": 0.00331,
         "timestamp": 1613865600000,
         "volume": 2248,
         "volumeProfile": "N/A"
@@ -2984,7 +2984,7 @@
         "high": 105.845,
         "low": 104.91,
         "open": 105.533,
-        "standardDeviation": null,
+        "standardDeviation": 0.00331,
         "timestamp": 1613952000000,
         "volume": 91891,
         "volumeProfile": "N/A"
@@ -2994,7 +2994,7 @@
         "high": 105.429,
         "low": 104.892,
         "open": 105.006,
-        "standardDeviation": null,
+        "standardDeviation": 0.00332,
         "timestamp": 1614038400000,
         "volume": 77736,
         "volumeProfile": "N/A"
@@ -3004,7 +3004,7 @@
         "high": 106.105,
         "low": 105.232,
         "open": 105.294,
-        "standardDeviation": null,
+        "standardDeviation": 0.00332,
         "timestamp": 1614124800000,
         "volume": 104689,
         "volumeProfile": "N/A"
@@ -3014,7 +3014,7 @@
         "high": 106.415,
         "low": 105.823,
         "open": 105.955,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1614211200000,
         "volume": 129737,
         "volumeProfile": "N/A"
@@ -3024,7 +3024,7 @@
         "high": 106.692,
         "low": 105.847,
         "open": 106.386,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1614297600000,
         "volume": 133019,
         "volumeProfile": "N/A"
@@ -3034,7 +3034,7 @@
         "high": 106.587,
         "low": 106.455,
         "open": 106.499,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1614470400000,
         "volume": 2686,
         "volumeProfile": "N/A"
@@ -3044,7 +3044,7 @@
         "high": 106.887,
         "low": 106.363,
         "open": 106.481,
-        "standardDeviation": null,
+        "standardDeviation": 0.00333,
         "timestamp": 1614556800000,
         "volume": 88424,
         "volumeProfile": "N/A"
@@ -3054,7 +3054,7 @@
         "high": 106.958,
         "low": 106.666,
         "open": 106.846,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1614643200000,
         "volume": 77459,
         "volumeProfile": "N/A"
@@ -3064,7 +3064,7 @@
         "high": 107.154,
         "low": 106.69,
         "open": 106.755,
-        "standardDeviation": null,
+        "standardDeviation": 0.00333,
         "timestamp": 1614729600000,
         "volume": 93231,
         "volumeProfile": "N/A"
@@ -3074,7 +3074,7 @@
         "high": 108.009,
         "low": 106.94,
         "open": 107.07,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1614816000000,
         "volume": 107206,
         "volumeProfile": "N/A"
@@ -3084,7 +3084,7 @@
         "high": 108.645,
         "low": 107.795,
         "open": 107.947,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1614902400000,
         "volume": 119082,
         "volumeProfile": "N/A"
@@ -3094,7 +3094,7 @@
         "high": 108.474,
         "low": 108.305,
         "open": 108.326,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1615075200000,
         "volume": 3840,
         "volumeProfile": "N/A"
@@ -3104,7 +3104,7 @@
         "high": 108.952,
         "low": 108.29,
         "open": 108.402,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1615161600000,
         "volume": 60071,
         "volumeProfile": "N/A"
@@ -3114,7 +3114,7 @@
         "high": 109.232,
         "low": 108.381,
         "open": 108.927,
-        "standardDeviation": null,
+        "standardDeviation": 0.00339,
         "timestamp": 1615248000000,
         "volume": 71614,
         "volumeProfile": "N/A"
@@ -3124,7 +3124,7 @@
         "high": 108.92,
         "low": 108.33,
         "open": 108.575,
-        "standardDeviation": null,
+        "standardDeviation": 0.0034,
         "timestamp": 1615334400000,
         "volume": 79104,
         "volumeProfile": "N/A"
@@ -3134,7 +3134,7 @@
         "high": 108.812,
         "low": 108.333,
         "open": 108.446,
-        "standardDeviation": null,
+        "standardDeviation": 0.0034,
         "timestamp": 1615420800000,
         "volume": 105939,
         "volumeProfile": "N/A"
@@ -3144,7 +3144,7 @@
         "high": 109.166,
         "low": 108.5,
         "open": 108.574,
-        "standardDeviation": null,
+        "standardDeviation": 0.0034,
         "timestamp": 1615507200000,
         "volume": 100926,
         "volumeProfile": "N/A"
@@ -3154,7 +3154,7 @@
         "high": 109.146,
         "low": 108.95,
         "open": 109,
-        "standardDeviation": null,
+        "standardDeviation": 0.0034,
         "timestamp": 1615680000000,
         "volume": 4622,
         "volumeProfile": "N/A"
@@ -3164,7 +3164,7 @@
         "high": 109.362,
         "low": 108.912,
         "open": 109.113,
-        "standardDeviation": null,
+        "standardDeviation": 0.0034,
         "timestamp": 1615766400000,
         "volume": 92708,
         "volumeProfile": "N/A"
@@ -3174,7 +3174,7 @@
         "high": 109.286,
         "low": 108.76,
         "open": 109.125,
-        "standardDeviation": null,
+        "standardDeviation": 0.00339,
         "timestamp": 1615852800000,
         "volume": 91581,
         "volumeProfile": "N/A"
@@ -3184,7 +3184,7 @@
         "high": 109.326,
         "low": 108.695,
         "open": 109.03,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1615939200000,
         "volume": 108506,
         "volumeProfile": "N/A"
@@ -3194,7 +3194,7 @@
         "high": 109.304,
         "low": 108.62,
         "open": 108.899,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1616025600000,
         "volume": 134059,
         "volumeProfile": "N/A"
@@ -3204,7 +3204,7 @@
         "high": 109.129,
         "low": 108.6,
         "open": 108.931,
-        "standardDeviation": null,
+        "standardDeviation": 0.00338,
         "timestamp": 1616112000000,
         "volume": 113264,
         "volumeProfile": "N/A"
@@ -3214,7 +3214,7 @@
         "high": 108.932,
         "low": 108.563,
         "open": 108.589,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1616284800000,
         "volume": 3856,
         "volumeProfile": "N/A"
@@ -3224,7 +3224,7 @@
         "high": 108.956,
         "low": 108.611,
         "open": 108.872,
-        "standardDeviation": null,
+        "standardDeviation": 0.00334,
         "timestamp": 1616371200000,
         "volume": 93459,
         "volumeProfile": "N/A"
@@ -3234,7 +3234,7 @@
         "high": 108.872,
         "low": 108.39,
         "open": 108.778,
-        "standardDeviation": null,
+        "standardDeviation": 0.00333,
         "timestamp": 1616457600000,
         "volume": 101981,
         "volumeProfile": "N/A"
@@ -3244,7 +3244,7 @@
         "high": 108.957,
         "low": 108.431,
         "open": 108.516,
-        "standardDeviation": null,
+        "standardDeviation": 0.00333,
         "timestamp": 1616544000000,
         "volume": 103346,
         "volumeProfile": "N/A"
@@ -3254,7 +3254,7 @@
         "high": 109.237,
         "low": 108.78,
         "open": 108.783,
-        "standardDeviation": null,
+        "standardDeviation": 0.00333,
         "timestamp": 1616630400000,
         "volume": 104186,
         "volumeProfile": "N/A"
@@ -3264,7 +3264,7 @@
         "high": 109.847,
         "low": 109.11,
         "open": 109.177,
-        "standardDeviation": null,
+        "standardDeviation": 0.00324,
         "timestamp": 1616716800000,
         "volume": 88123,
         "volumeProfile": "N/A"
@@ -3274,7 +3274,7 @@
         "high": 109.801,
         "low": 109.635,
         "open": 109.703,
-        "standardDeviation": null,
+        "standardDeviation": 0.00324,
         "timestamp": 1616889600000,
         "volume": 5048,
         "volumeProfile": "N/A"
@@ -3284,7 +3284,7 @@
         "high": 109.884,
         "low": 109.36,
         "open": 109.79,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1616976000000,
         "volume": 100883,
         "volumeProfile": "N/A"
@@ -3294,7 +3294,7 @@
         "high": 110.425,
         "low": 109.77,
         "open": 109.835,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1617062400000,
         "volume": 72241,
         "volumeProfile": "N/A"
@@ -3304,7 +3304,7 @@
         "high": 110.967,
         "low": 110.266,
         "open": 110.305,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1617148800000,
         "volume": 114108,
         "volumeProfile": "N/A"
@@ -3314,7 +3314,7 @@
         "high": 110.848,
         "low": 110.497,
         "open": 110.754,
-        "standardDeviation": null,
+        "standardDeviation": 0.00323,
         "timestamp": 1617235200000,
         "volume": 98482,
         "volumeProfile": "N/A"
@@ -3324,7 +3324,7 @@
         "high": 110.748,
         "low": 110.37,
         "open": 110.613,
-        "standardDeviation": null,
+        "standardDeviation": 0.00323,
         "timestamp": 1617321600000,
         "volume": 51253,
         "volumeProfile": "N/A"
@@ -3334,7 +3334,7 @@
         "high": 110.748,
         "low": 110.586,
         "open": 110.649,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1617494400000,
         "volume": 5437,
         "volumeProfile": "N/A"
@@ -3344,7 +3344,7 @@
         "high": 110.719,
         "low": 109.957,
         "open": 110.679,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1617580800000,
         "volume": 72768,
         "volumeProfile": "N/A"
@@ -3354,7 +3354,7 @@
         "high": 110.56,
         "low": 109.668,
         "open": 110.192,
-        "standardDeviation": null,
+        "standardDeviation": 0.00323,
         "timestamp": 1617667200000,
         "volume": 103028,
         "volumeProfile": "N/A"
@@ -3364,7 +3364,7 @@
         "high": 109.942,
         "low": 109.57,
         "open": 109.793,
-        "standardDeviation": null,
+        "standardDeviation": 0.00324,
         "timestamp": 1617753600000,
         "volume": 99909,
         "volumeProfile": "N/A"
@@ -3374,7 +3374,7 @@
         "high": 109.904,
         "low": 108.99,
         "open": 109.852,
-        "standardDeviation": null,
+        "standardDeviation": 0.00324,
         "timestamp": 1617840000000,
         "volume": 95699,
         "volumeProfile": "N/A"
@@ -3384,7 +3384,7 @@
         "high": 109.959,
         "low": 109.2,
         "open": 109.331,
-        "standardDeviation": null,
+        "standardDeviation": 0.00325,
         "timestamp": 1617926400000,
         "volume": 86532,
         "volumeProfile": "N/A"
@@ -3394,7 +3394,7 @@
         "high": 109.65,
         "low": 109.63,
         "open": 109.65,
-        "standardDeviation": null,
+        "standardDeviation": 0.00323,
         "timestamp": 1618012800000,
         "volume": 7,
         "volumeProfile": "N/A"
@@ -3404,7 +3404,7 @@
         "high": 109.753,
         "low": 109.573,
         "open": 109.65,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1618099200000,
         "volume": 2044,
         "volumeProfile": "N/A"
@@ -3414,7 +3414,7 @@
         "high": 109.77,
         "low": 109.238,
         "open": 109.717,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1618185600000,
         "volume": 82074,
         "volumeProfile": "N/A"
@@ -3424,7 +3424,7 @@
         "high": 109.752,
         "low": 108.86,
         "open": 109.38,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1618272000000,
         "volume": 102226,
         "volumeProfile": "N/A"
@@ -3434,7 +3434,7 @@
         "high": 109.095,
         "low": 108.749,
         "open": 108.922,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1618358400000,
         "volume": 91849,
         "volumeProfile": "N/A"
@@ -3444,7 +3444,7 @@
         "high": 108.959,
         "low": 108.583,
         "open": 108.894,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1618444800000,
         "volume": 87708,
         "volumeProfile": "N/A"
@@ -3454,7 +3454,7 @@
         "high": 108.964,
         "low": 108.584,
         "open": 108.69,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1618531200000,
         "volume": 77133,
         "volumeProfile": "N/A"
@@ -3464,7 +3464,7 @@
         "high": 108.78,
         "low": 108.77,
         "open": 108.77,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1618617600000,
         "volume": 69,
         "volumeProfile": "N/A"
@@ -3474,7 +3474,7 @@
         "high": 108.832,
         "low": 108.666,
         "open": 108.78,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1618704000000,
         "volume": 3024,
         "volumeProfile": "N/A"
@@ -3484,7 +3484,7 @@
         "high": 108.77,
         "low": 107.975,
         "open": 108.721,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1618790400000,
         "volume": 99414,
         "volumeProfile": "N/A"
@@ -3494,7 +3494,7 @@
         "high": 108.548,
         "low": 107.971,
         "open": 108.105,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1618876800000,
         "volume": 98810,
         "volumeProfile": "N/A"
@@ -3504,7 +3504,7 @@
         "high": 108.281,
         "low": 107.871,
         "open": 108.132,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1618963200000,
         "volume": 86385,
         "volumeProfile": "N/A"
@@ -3514,7 +3514,7 @@
         "high": 108.232,
         "low": 107.807,
         "open": 108.043,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1619049600000,
         "volume": 94470,
         "volumeProfile": "N/A"
@@ -3524,7 +3524,7 @@
         "high": 108.145,
         "low": 107.339,
         "open": 107.978,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1619136000000,
         "volume": 79559,
         "volumeProfile": "N/A"
@@ -3534,7 +3534,7 @@
         "high": 107.91,
         "low": 107.89,
         "open": 107.91,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1619222400000,
         "volume": 4,
         "volumeProfile": "N/A"
@@ -3544,7 +3544,7 @@
         "high": 107.958,
         "low": 107.857,
         "open": 107.857,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1619308800000,
         "volume": 2235,
         "volumeProfile": "N/A"
@@ -3554,7 +3554,7 @@
         "high": 108.208,
         "low": 107.623,
         "open": 107.878,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1619395200000,
         "volume": 82924,
         "volumeProfile": "N/A"
@@ -3564,7 +3564,7 @@
         "high": 108.775,
         "low": 108.07,
         "open": 108.202,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1619481600000,
         "volume": 90204,
         "volumeProfile": "N/A"
@@ -3574,7 +3574,7 @@
         "high": 109.075,
         "low": 108.49,
         "open": 108.749,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1619568000000,
         "volume": 98836,
         "volumeProfile": "N/A"
@@ -3584,7 +3584,7 @@
         "high": 109.221,
         "low": 108.41,
         "open": 108.505,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1619654400000,
         "volume": 91871,
         "volumeProfile": "N/A"
@@ -3594,7 +3594,7 @@
         "high": 109.372,
         "low": 108.69,
         "open": 108.904,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1619740800000,
         "volume": 87960,
         "volumeProfile": "N/A"
@@ -3604,7 +3604,7 @@
         "high": 109.27,
         "low": 109.211,
         "open": 109.27,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1619827200000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -3614,7 +3614,7 @@
         "high": 109.352,
         "low": 109.121,
         "open": 109.326,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1619913600000,
         "volume": 1572,
         "volumeProfile": "N/A"
@@ -3624,7 +3624,7 @@
         "high": 109.697,
         "low": 108.889,
         "open": 109.289,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1620000000000,
         "volume": 82268,
         "volumeProfile": "N/A"
@@ -3634,7 +3634,7 @@
         "high": 109.487,
         "low": 109.03,
         "open": 109.087,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1620086400000,
         "volume": 89646,
         "volumeProfile": "N/A"
@@ -3644,7 +3644,7 @@
         "high": 109.479,
         "low": 109.111,
         "open": 109.329,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1620172800000,
         "volume": 85398,
         "volumeProfile": "N/A"
@@ -3654,7 +3654,7 @@
         "high": 109.429,
         "low": 108.992,
         "open": 109.22,
-        "standardDeviation": null,
+        "standardDeviation": 0.00317,
         "timestamp": 1620259200000,
         "volume": 100897,
         "volumeProfile": "N/A"
@@ -3664,7 +3664,7 @@
         "high": 109.287,
         "low": 108.334,
         "open": 109.05,
-        "standardDeviation": null,
+        "standardDeviation": 0.00317,
         "timestamp": 1620345600000,
         "volume": 100943,
         "volumeProfile": "N/A"
@@ -3674,7 +3674,7 @@
         "high": 108.6,
         "low": 108.57,
         "open": 108.6,
-        "standardDeviation": null,
+        "standardDeviation": 0.00317,
         "timestamp": 1620432000000,
         "volume": 6,
         "volumeProfile": "N/A"
@@ -3684,7 +3684,7 @@
         "high": 108.641,
         "low": 108.46,
         "open": 108.568,
-        "standardDeviation": null,
+        "standardDeviation": 0.00317,
         "timestamp": 1620518400000,
         "volume": 2635,
         "volumeProfile": "N/A"
@@ -3694,7 +3694,7 @@
         "high": 109.056,
         "low": 108.556,
         "open": 108.572,
-        "standardDeviation": null,
+        "standardDeviation": 0.00315,
         "timestamp": 1620604800000,
         "volume": 100827,
         "volumeProfile": "N/A"
@@ -3704,7 +3704,7 @@
         "high": 108.983,
         "low": 108.346,
         "open": 108.845,
-        "standardDeviation": null,
+        "standardDeviation": 0.00315,
         "timestamp": 1620691200000,
         "volume": 103104,
         "volumeProfile": "N/A"
@@ -3714,7 +3714,7 @@
         "high": 109.706,
         "low": 108.633,
         "open": 108.715,
-        "standardDeviation": null,
+        "standardDeviation": 0.00312,
         "timestamp": 1620777600000,
         "volume": 116178,
         "volumeProfile": "N/A"
@@ -3724,7 +3724,7 @@
         "high": 109.786,
         "low": 109.37,
         "open": 109.664,
-        "standardDeviation": null,
+        "standardDeviation": 0.00304,
         "timestamp": 1620864000000,
         "volume": 110944,
         "volumeProfile": "N/A"
@@ -3734,7 +3734,7 @@
         "high": 109.657,
         "low": 109.184,
         "open": 109.517,
-        "standardDeviation": null,
+        "standardDeviation": 0.00304,
         "timestamp": 1620950400000,
         "volume": 86591,
         "volumeProfile": "N/A"
@@ -3744,7 +3744,7 @@
         "high": 109.422,
         "low": 109.151,
         "open": 109.328,
-        "standardDeviation": null,
+        "standardDeviation": 0.00303,
         "timestamp": 1621123200000,
         "volume": 1734,
         "volumeProfile": "N/A"
@@ -3754,7 +3754,7 @@
         "high": 109.503,
         "low": 109.06,
         "open": 109.42,
-        "standardDeviation": null,
+        "standardDeviation": 0.00302,
         "timestamp": 1621209600000,
         "volume": 86182,
         "volumeProfile": "N/A"
@@ -3764,7 +3764,7 @@
         "high": 109.259,
         "low": 108.813,
         "open": 109.219,
-        "standardDeviation": null,
+        "standardDeviation": 0.00302,
         "timestamp": 1621296000000,
         "volume": 70923,
         "volumeProfile": "N/A"
@@ -3774,7 +3774,7 @@
         "high": 109.335,
         "low": 108.565,
         "open": 108.867,
-        "standardDeviation": null,
+        "standardDeviation": 0.00303,
         "timestamp": 1621382400000,
         "volume": 118909,
         "volumeProfile": "N/A"
@@ -3784,7 +3784,7 @@
         "high": 109.295,
         "low": 108.726,
         "open": 109.262,
-        "standardDeviation": null,
+        "standardDeviation": 0.00303,
         "timestamp": 1621468800000,
         "volume": 97650,
         "volumeProfile": "N/A"
@@ -3794,7 +3794,7 @@
         "high": 109.007,
         "low": 108.591,
         "open": 108.861,
-        "standardDeviation": null,
+        "standardDeviation": 0.00304,
         "timestamp": 1621555200000,
         "volume": 87190,
         "volumeProfile": "N/A"
@@ -3804,7 +3804,7 @@
         "high": 108.94,
         "low": 108.673,
         "open": 108.892,
-        "standardDeviation": null,
+        "standardDeviation": 0.00304,
         "timestamp": 1621814400000,
         "volume": 31486,
         "volumeProfile": "N/A"
@@ -3814,7 +3814,7 @@
         "high": 109.07,
         "low": 108.55,
         "open": 108.851,
-        "standardDeviation": null,
+        "standardDeviation": 0.00301,
         "timestamp": 1621900800000,
         "volume": 100533,
         "volumeProfile": "N/A"
@@ -3824,7 +3824,7 @@
         "high": 109.177,
         "low": 108.7,
         "open": 108.791,
-        "standardDeviation": null,
+        "standardDeviation": 0.00301,
         "timestamp": 1621987200000,
         "volume": 96745,
         "volumeProfile": "N/A"
@@ -3834,7 +3834,7 @@
         "high": 109.924,
         "low": 109.03,
         "open": 109.168,
-        "standardDeviation": null,
+        "standardDeviation": 0.00301,
         "timestamp": 1622073600000,
         "volume": 101638,
         "volumeProfile": "N/A"
@@ -3844,7 +3844,7 @@
         "high": 110.2,
         "low": 109.72,
         "open": 109.809,
-        "standardDeviation": null,
+        "standardDeviation": 0.00303,
         "timestamp": 1622160000000,
         "volume": 93304,
         "volumeProfile": "N/A"
@@ -3854,7 +3854,7 @@
         "high": 109.932,
         "low": 109.725,
         "open": 109.76,
-        "standardDeviation": null,
+        "standardDeviation": 0.00303,
         "timestamp": 1622332800000,
         "volume": 1668,
         "volumeProfile": "N/A"
@@ -3864,7 +3864,7 @@
         "high": 109.933,
         "low": 109.352,
         "open": 109.911,
-        "standardDeviation": null,
+        "standardDeviation": 0.00298,
         "timestamp": 1622419200000,
         "volume": 71537,
         "volumeProfile": "N/A"
@@ -3874,7 +3874,7 @@
         "high": 109.707,
         "low": 109.328,
         "open": 109.493,
-        "standardDeviation": null,
+        "standardDeviation": 0.00299,
         "timestamp": 1622505600000,
         "volume": 87586,
         "volumeProfile": "N/A"
@@ -3884,7 +3884,7 @@
         "high": 109.885,
         "low": 109.474,
         "open": 109.494,
-        "standardDeviation": null,
+        "standardDeviation": 0.00298,
         "timestamp": 1622592000000,
         "volume": 84800,
         "volumeProfile": "N/A"
@@ -3894,7 +3894,7 @@
         "high": 110.33,
         "low": 109.55,
         "open": 109.595,
-        "standardDeviation": null,
+        "standardDeviation": 0.00297,
         "timestamp": 1622678400000,
         "volume": 85937,
         "volumeProfile": "N/A"
@@ -3904,7 +3904,7 @@
         "high": 110.328,
         "low": 109.36,
         "open": 110.291,
-        "standardDeviation": null,
+        "standardDeviation": 0.00299,
         "timestamp": 1622764800000,
         "volume": 84344,
         "volumeProfile": "N/A"
@@ -3914,7 +3914,7 @@
         "high": 109.632,
         "low": 109.431,
         "open": 109.515,
-        "standardDeviation": null,
+        "standardDeviation": 0.00303,
         "timestamp": 1622937600000,
         "volume": 1681,
         "volumeProfile": "N/A"
@@ -3924,7 +3924,7 @@
         "high": 109.635,
         "low": 109.17,
         "open": 109.615,
-        "standardDeviation": null,
+        "standardDeviation": 0.00303,
         "timestamp": 1623024000000,
         "volume": 86743,
         "volumeProfile": "N/A"
@@ -3934,7 +3934,7 @@
         "high": 109.557,
         "low": 109.181,
         "open": 109.274,
-        "standardDeviation": null,
+        "standardDeviation": 0.00302,
         "timestamp": 1623110400000,
         "volume": 85490,
         "volumeProfile": "N/A"
@@ -3944,7 +3944,7 @@
         "high": 109.66,
         "low": 109.217,
         "open": 109.468,
-        "standardDeviation": null,
+        "standardDeviation": 0.00301,
         "timestamp": 1623196800000,
         "volume": 77336,
         "volumeProfile": "N/A"
@@ -3954,7 +3954,7 @@
         "high": 109.795,
         "low": 109.28,
         "open": 109.614,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1623283200000,
         "volume": 83837,
         "volumeProfile": "N/A"
@@ -3964,7 +3964,7 @@
         "high": 109.842,
         "low": 109.274,
         "open": 109.393,
-        "standardDeviation": null,
+        "standardDeviation": 0.00282,
         "timestamp": 1623369600000,
         "volume": 78458,
         "volumeProfile": "N/A"
@@ -3974,7 +3974,7 @@
         "high": 109.733,
         "low": 109.596,
         "open": 109.603,
-        "standardDeviation": null,
+        "standardDeviation": 0.00282,
         "timestamp": 1623542400000,
         "volume": 2018,
         "volumeProfile": "N/A"
@@ -3984,7 +3984,7 @@
         "high": 110.098,
         "low": 109.6,
         "open": 109.712,
-        "standardDeviation": null,
+        "standardDeviation": 0.00282,
         "timestamp": 1623628800000,
         "volume": 78024,
         "volumeProfile": "N/A"
@@ -3994,7 +3994,7 @@
         "high": 110.168,
         "low": 109.97,
         "open": 110.041,
-        "standardDeviation": null,
+        "standardDeviation": 0.00282,
         "timestamp": 1623715200000,
         "volume": 82105,
         "volumeProfile": "N/A"
@@ -4004,7 +4004,7 @@
         "high": 110.801,
         "low": 109.771,
         "open": 110.082,
-        "standardDeviation": null,
+        "standardDeviation": 0.00282,
         "timestamp": 1623801600000,
         "volume": 94229,
         "volumeProfile": "N/A"
@@ -4014,7 +4014,7 @@
         "high": 110.822,
         "low": 110.146,
         "open": 110.772,
-        "standardDeviation": null,
+        "standardDeviation": 0.00284,
         "timestamp": 1623888000000,
         "volume": 111783,
         "volumeProfile": "N/A"
@@ -4024,7 +4024,7 @@
         "high": 110.485,
         "low": 109.94,
         "open": 110.322,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1623974400000,
         "volume": 114582,
         "volumeProfile": "N/A"
@@ -4034,7 +4034,7 @@
         "high": 110.249,
         "low": 110.149,
         "open": 110.206,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1624147200000,
         "volume": 2334,
         "volumeProfile": "N/A"
@@ -4044,7 +4044,7 @@
         "high": 110.383,
         "low": 109.713,
         "open": 110.192,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1624233600000,
         "volume": 114880,
         "volumeProfile": "N/A"
@@ -4054,7 +4054,7 @@
         "high": 110.79,
         "low": 110.208,
         "open": 110.375,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1624320000000,
         "volume": 89434,
         "volumeProfile": "N/A"
@@ -4064,7 +4064,7 @@
         "high": 111.102,
         "low": 110.645,
         "open": 110.654,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1624406400000,
         "volume": 96427,
         "volumeProfile": "N/A"
@@ -4074,7 +4074,7 @@
         "high": 111.116,
         "low": 110.661,
         "open": 111.012,
-        "standardDeviation": null,
+        "standardDeviation": 0.00286,
         "timestamp": 1624492800000,
         "volume": 89208,
         "volumeProfile": "N/A"
@@ -4084,7 +4084,7 @@
         "high": 110.984,
         "low": 110.47,
         "open": 110.919,
-        "standardDeviation": null,
+        "standardDeviation": 0.00286,
         "timestamp": 1624579200000,
         "volume": 78293,
         "volumeProfile": "N/A"
@@ -4094,7 +4094,7 @@
         "high": 110.863,
         "low": 110.696,
         "open": 110.78,
-        "standardDeviation": null,
+        "standardDeviation": 0.00286,
         "timestamp": 1624752000000,
         "volume": 2097,
         "volumeProfile": "N/A"
@@ -4104,7 +4104,7 @@
         "high": 110.835,
         "low": 110.48,
         "open": 110.804,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1624838400000,
         "volume": 37412,
         "volumeProfile": "N/A"
@@ -4114,7 +4114,7 @@
         "high": 110.757,
         "low": 110.42,
         "open": 110.606,
-        "standardDeviation": null,
+        "standardDeviation": 0.00284,
         "timestamp": 1624924800000,
         "volume": 89506,
         "volumeProfile": "N/A"
@@ -4124,7 +4124,7 @@
         "high": 111.137,
         "low": 110.415,
         "open": 110.535,
-        "standardDeviation": null,
+        "standardDeviation": 0.00284,
         "timestamp": 1625011200000,
         "volume": 94107,
         "volumeProfile": "N/A"
@@ -4134,7 +4134,7 @@
         "high": 111.637,
         "low": 110.99,
         "open": 111.13,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1625097600000,
         "volume": 86981,
         "volumeProfile": "N/A"
@@ -4144,7 +4144,7 @@
         "high": 111.659,
         "low": 110.917,
         "open": 111.572,
-        "standardDeviation": null,
+        "standardDeviation": 0.00286,
         "timestamp": 1625184000000,
         "volume": 86597,
         "volumeProfile": "N/A"
@@ -4154,7 +4154,7 @@
         "high": 111.02,
         "low": 111.02,
         "open": 111.02,
-        "standardDeviation": null,
+        "standardDeviation": 0.00287,
         "timestamp": 1625270400000,
         "volume": 1,
         "volumeProfile": "N/A"
@@ -4164,7 +4164,7 @@
         "high": 111.156,
         "low": 110.925,
         "open": 111.011,
-        "standardDeviation": null,
+        "standardDeviation": 0.00286,
         "timestamp": 1625356800000,
         "volume": 2839,
         "volumeProfile": "N/A"
@@ -4174,7 +4174,7 @@
         "high": 111.191,
         "low": 110.762,
         "open": 111.138,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1625443200000,
         "volume": 79709,
         "volumeProfile": "N/A"
@@ -4184,7 +4184,7 @@
         "high": 110.932,
         "low": 110.516,
         "open": 110.916,
-        "standardDeviation": null,
+        "standardDeviation": 0.00284,
         "timestamp": 1625529600000,
         "volume": 100020,
         "volumeProfile": "N/A"
@@ -4194,7 +4194,7 @@
         "high": 110.814,
         "low": 110.39,
         "open": 110.599,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1625616000000,
         "volume": 101512,
         "volumeProfile": "N/A"
@@ -4204,7 +4204,7 @@
         "high": 110.649,
         "low": 109.511,
         "open": 110.635,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1625702400000,
         "volume": 126758,
         "volumeProfile": "N/A"
@@ -4214,7 +4214,7 @@
         "high": 110.258,
         "low": 109.735,
         "open": 109.801,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1625788800000,
         "volume": 95016,
         "volumeProfile": "N/A"
@@ -4224,7 +4224,7 @@
         "high": 110.14,
         "low": 110.09,
         "open": 110.14,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1625875200000,
         "volume": 4,
         "volumeProfile": "N/A"
@@ -4234,7 +4234,7 @@
         "high": 110.234,
         "low": 110.084,
         "open": 110.084,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1625961600000,
         "volume": 858,
         "volumeProfile": "N/A"
@@ -4244,7 +4244,7 @@
         "high": 110.405,
         "low": 109.983,
         "open": 110.216,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1626048000000,
         "volume": 53360,
         "volumeProfile": "N/A"
@@ -4254,7 +4254,7 @@
         "high": 110.646,
         "low": 110.196,
         "open": 110.327,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1626134400000,
         "volume": 92923,
         "volumeProfile": "N/A"
@@ -4264,7 +4264,7 @@
         "high": 110.699,
         "low": 109.892,
         "open": 110.594,
-        "standardDeviation": null,
+        "standardDeviation": 0.00288,
         "timestamp": 1626220800000,
         "volume": 96314,
         "volumeProfile": "N/A"
@@ -4274,7 +4274,7 @@
         "high": 110.09,
         "low": 109.712,
         "open": 109.994,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1626307200000,
         "volume": 96166,
         "volumeProfile": "N/A"
@@ -4284,7 +4284,7 @@
         "high": 110.342,
         "low": 109.7,
         "open": 109.78,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1626393600000,
         "volume": 87570,
         "volumeProfile": "N/A"
@@ -4294,7 +4294,7 @@
         "high": 110.08,
         "low": 110.03,
         "open": 110.08,
-        "standardDeviation": null,
+        "standardDeviation": 0.00291,
         "timestamp": 1626480000000,
         "volume": 4,
         "volumeProfile": "N/A"
@@ -4304,7 +4304,7 @@
         "high": 110.097,
         "low": 109.842,
         "open": 110.064,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1626566400000,
         "volume": 2910,
         "volumeProfile": "N/A"
@@ -4314,7 +4314,7 @@
         "high": 110.032,
         "low": 109.06,
         "open": 109.872,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1626652800000,
         "volume": 113648,
         "volumeProfile": "N/A"
@@ -4324,7 +4324,7 @@
         "high": 109.956,
         "low": 109.31,
         "open": 109.527,
-        "standardDeviation": null,
+        "standardDeviation": 0.00291,
         "timestamp": 1626739200000,
         "volume": 121945,
         "volumeProfile": "N/A"
@@ -4334,7 +4334,7 @@
         "high": 110.387,
         "low": 109.782,
         "open": 109.919,
-        "standardDeviation": null,
+        "standardDeviation": 0.00291,
         "timestamp": 1626825600000,
         "volume": 105117,
         "volumeProfile": "N/A"
@@ -4344,7 +4344,7 @@
         "high": 110.358,
         "low": 110,
         "open": 110.247,
-        "standardDeviation": null,
+        "standardDeviation": 0.00292,
         "timestamp": 1626912000000,
         "volume": 93110,
         "volumeProfile": "N/A"
@@ -4354,7 +4354,7 @@
         "high": 110.593,
         "low": 110.092,
         "open": 110.141,
-        "standardDeviation": null,
+        "standardDeviation": 0.00292,
         "timestamp": 1626998400000,
         "volume": 77165,
         "volumeProfile": "N/A"
@@ -4364,7 +4364,7 @@
         "high": 110.54,
         "low": 110.525,
         "open": 110.54,
-        "standardDeviation": null,
+        "standardDeviation": 0.00292,
         "timestamp": 1627084800000,
         "volume": 6,
         "volumeProfile": "N/A"
@@ -4374,7 +4374,7 @@
         "high": 110.566,
         "low": 110.36,
         "open": 110.535,
-        "standardDeviation": null,
+        "standardDeviation": 0.00292,
         "timestamp": 1627171200000,
         "volume": 2305,
         "volumeProfile": "N/A"
@@ -4384,7 +4384,7 @@
         "high": 110.584,
         "low": 110.09,
         "open": 110.544,
-        "standardDeviation": null,
+        "standardDeviation": 0.00292,
         "timestamp": 1627257600000,
         "volume": 93286,
         "volumeProfile": "N/A"
@@ -4394,7 +4394,7 @@
         "high": 110.329,
         "low": 109.57,
         "open": 110.305,
-        "standardDeviation": null,
+        "standardDeviation": 0.00293,
         "timestamp": 1627344000000,
         "volume": 106654,
         "volumeProfile": "N/A"
@@ -4404,7 +4404,7 @@
         "high": 110.287,
         "low": 109.711,
         "open": 109.806,
-        "standardDeviation": null,
+        "standardDeviation": 0.00294,
         "timestamp": 1627430400000,
         "volume": 113547,
         "volumeProfile": "N/A"
@@ -4414,7 +4414,7 @@
         "high": 109.91,
         "low": 109.39,
         "open": 109.89,
-        "standardDeviation": null,
+        "standardDeviation": 0.00294,
         "timestamp": 1627516800000,
         "volume": 102639,
         "volumeProfile": "N/A"
@@ -4424,7 +4424,7 @@
         "high": 109.826,
         "low": 109.359,
         "open": 109.41,
-        "standardDeviation": null,
+        "standardDeviation": 0.00293,
         "timestamp": 1627603200000,
         "volume": 89873,
         "volumeProfile": "N/A"
@@ -4434,7 +4434,7 @@
         "high": 109.768,
         "low": 109.365,
         "open": 109.678,
-        "standardDeviation": null,
+        "standardDeviation": 0.00293,
         "timestamp": 1627776000000,
         "volume": 2037,
         "volumeProfile": "N/A"
@@ -4444,7 +4444,7 @@
         "high": 109.745,
         "low": 109.17,
         "open": 109.711,
-        "standardDeviation": null,
+        "standardDeviation": 0.00293,
         "timestamp": 1627862400000,
         "volume": 91625,
         "volumeProfile": "N/A"
@@ -4454,7 +4454,7 @@
         "high": 109.333,
         "low": 108.86,
         "open": 109.271,
-        "standardDeviation": null,
+        "standardDeviation": 0.00294,
         "timestamp": 1627948800000,
         "volume": 92193,
         "volumeProfile": "N/A"
@@ -4464,7 +4464,7 @@
         "high": 109.673,
         "low": 108.714,
         "open": 108.988,
-        "standardDeviation": null,
+        "standardDeviation": 0.00295,
         "timestamp": 1628035200000,
         "volume": 101380,
         "volumeProfile": "N/A"
@@ -4474,7 +4474,7 @@
         "high": 109.79,
         "low": 109.37,
         "open": 109.534,
-        "standardDeviation": null,
+        "standardDeviation": 0.00295,
         "timestamp": 1628121600000,
         "volume": 97123,
         "volumeProfile": "N/A"
@@ -4484,7 +4484,7 @@
         "high": 110.357,
         "low": 109.68,
         "open": 109.752,
-        "standardDeviation": null,
+        "standardDeviation": 0.00295,
         "timestamp": 1628208000000,
         "volume": 85443,
         "volumeProfile": "N/A"
@@ -4494,7 +4494,7 @@
         "high": 110.21,
         "low": 110.2,
         "open": 110.21,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1628294400000,
         "volume": 14,
         "volumeProfile": "N/A"
@@ -4504,7 +4504,7 @@
         "high": 110.303,
         "low": 110.146,
         "open": 110.21,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1628380800000,
         "volume": 3448,
         "volumeProfile": "N/A"
@@ -4514,7 +4514,7 @@
         "high": 110.352,
         "low": 110.004,
         "open": 110.26,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1628467200000,
         "volume": 81812,
         "volumeProfile": "N/A"
@@ -4524,7 +4524,7 @@
         "high": 110.6,
         "low": 110.28,
         "open": 110.321,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1628553600000,
         "volume": 83962,
         "volumeProfile": "N/A"
@@ -4534,7 +4534,7 @@
         "high": 110.8,
         "low": 110.29,
         "open": 110.595,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1628640000000,
         "volume": 89090,
         "volumeProfile": "N/A"
@@ -4544,7 +4544,7 @@
         "high": 110.546,
         "low": 110.292,
         "open": 110.375,
-        "standardDeviation": null,
+        "standardDeviation": 0.00295,
         "timestamp": 1628726400000,
         "volume": 78325,
         "volumeProfile": "N/A"
@@ -4554,7 +4554,7 @@
         "high": 110.457,
         "low": 109.499,
         "open": 110.403,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1628812800000,
         "volume": 71594,
         "volumeProfile": "N/A"
@@ -4564,7 +4564,7 @@
         "high": 109.75,
         "low": 109.552,
         "open": 109.593,
-        "standardDeviation": null,
+        "standardDeviation": 0.00294,
         "timestamp": 1628985600000,
         "volume": 2526,
         "volumeProfile": "N/A"
@@ -4574,7 +4574,7 @@
         "high": 109.625,
         "low": 109.074,
         "open": 109.625,
-        "standardDeviation": null,
+        "standardDeviation": 0.00294,
         "timestamp": 1629072000000,
         "volume": 91937,
         "volumeProfile": "N/A"
@@ -4584,7 +4584,7 @@
         "high": 109.656,
         "low": 109.117,
         "open": 109.302,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1629158400000,
         "volume": 105851,
         "volumeProfile": "N/A"
@@ -4594,7 +4594,7 @@
         "high": 110.065,
         "low": 109.47,
         "open": 109.537,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1629244800000,
         "volume": 105336,
         "volumeProfile": "N/A"
@@ -4604,7 +4604,7 @@
         "high": 110.228,
         "low": 109.47,
         "open": 109.84,
-        "standardDeviation": null,
+        "standardDeviation": 0.00281,
         "timestamp": 1629331200000,
         "volume": 122910,
         "volumeProfile": "N/A"
@@ -4614,7 +4614,7 @@
         "high": 109.886,
         "low": 109.544,
         "open": 109.769,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1629417600000,
         "volume": 97428,
         "volumeProfile": "N/A"
@@ -4624,7 +4624,7 @@
         "high": 109.8,
         "low": 109.78,
         "open": 109.8,
-        "standardDeviation": null,
+        "standardDeviation": 0.00279,
         "timestamp": 1629504000000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -4634,7 +4634,7 @@
         "high": 109.88,
         "low": 109.64,
         "open": 109.8,
-        "standardDeviation": null,
+        "standardDeviation": 0.00279,
         "timestamp": 1629590400000,
         "volume": 2848,
         "volumeProfile": "N/A"
@@ -4644,7 +4644,7 @@
         "high": 110.147,
         "low": 109.631,
         "open": 109.834,
-        "standardDeviation": null,
+        "standardDeviation": 0.00279,
         "timestamp": 1629676800000,
         "volume": 101074,
         "volumeProfile": "N/A"
@@ -4654,7 +4654,7 @@
         "high": 109.882,
         "low": 109.376,
         "open": 109.675,
-        "standardDeviation": null,
+        "standardDeviation": 0.00278,
         "timestamp": 1629763200000,
         "volume": 91435,
         "volumeProfile": "N/A"
@@ -4664,7 +4664,7 @@
         "high": 110.125,
         "low": 109.68,
         "open": 109.726,
-        "standardDeviation": null,
+        "standardDeviation": 0.00277,
         "timestamp": 1629849600000,
         "volume": 96629,
         "volumeProfile": "N/A"
@@ -4674,7 +4674,7 @@
         "high": 110.23,
         "low": 109.91,
         "open": 109.98,
-        "standardDeviation": null,
+        "standardDeviation": 0.00277,
         "timestamp": 1629936000000,
         "volume": 91914,
         "volumeProfile": "N/A"
@@ -4684,7 +4684,7 @@
         "high": 110.266,
         "low": 109.724,
         "open": 110.05,
-        "standardDeviation": null,
+        "standardDeviation": 0.00277,
         "timestamp": 1630022400000,
         "volume": 87967,
         "volumeProfile": "N/A"
@@ -4694,7 +4694,7 @@
         "high": 109.875,
         "low": 109.772,
         "open": 109.84,
-        "standardDeviation": null,
+        "standardDeviation": 0.00278,
         "timestamp": 1630195200000,
         "volume": 1672,
         "volumeProfile": "N/A"
@@ -4704,7 +4704,7 @@
         "high": 109.981,
         "low": 109.68,
         "open": 109.862,
-        "standardDeviation": null,
+        "standardDeviation": 0.00274,
         "timestamp": 1630281600000,
         "volume": 65237,
         "volumeProfile": "N/A"
@@ -4714,7 +4714,7 @@
         "high": 110.077,
         "low": 109.584,
         "open": 109.946,
-        "standardDeviation": null,
+        "standardDeviation": 0.00274,
         "timestamp": 1630368000000,
         "volume": 102513,
         "volumeProfile": "N/A"
@@ -4724,7 +4724,7 @@
         "high": 110.418,
         "low": 109.86,
         "open": 110.057,
-        "standardDeviation": null,
+        "standardDeviation": 0.00274,
         "timestamp": 1630454400000,
         "volume": 95493,
         "volumeProfile": "N/A"
@@ -4734,7 +4734,7 @@
         "high": 110.119,
         "low": 109.886,
         "open": 110.094,
-        "standardDeviation": null,
+        "standardDeviation": 0.00273,
         "timestamp": 1630540800000,
         "volume": 76717,
         "volumeProfile": "N/A"
@@ -4744,7 +4744,7 @@
         "high": 110.073,
         "low": 109.58,
         "open": 109.946,
-        "standardDeviation": null,
+        "standardDeviation": 0.00273,
         "timestamp": 1630627200000,
         "volume": 85696,
         "volumeProfile": "N/A"
@@ -4754,7 +4754,7 @@
         "high": 109.779,
         "low": 109.623,
         "open": 109.681,
-        "standardDeviation": null,
+        "standardDeviation": 0.00273,
         "timestamp": 1630800000000,
         "volume": 1764,
         "volumeProfile": "N/A"
@@ -4764,7 +4764,7 @@
         "high": 109.945,
         "low": 109.705,
         "open": 109.778,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1630886400000,
         "volume": 69939,
         "volumeProfile": "N/A"
@@ -4774,7 +4774,7 @@
         "high": 110.324,
         "low": 109.68,
         "open": 109.814,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1630972800000,
         "volume": 95050,
         "volumeProfile": "N/A"
@@ -4784,7 +4784,7 @@
         "high": 110.447,
         "low": 110.113,
         "open": 110.298,
-        "standardDeviation": null,
+        "standardDeviation": 0.00273,
         "timestamp": 1631059200000,
         "volume": 83338,
         "volumeProfile": "N/A"
@@ -4794,7 +4794,7 @@
         "high": 110.273,
         "low": 109.594,
         "open": 110.221,
-        "standardDeviation": null,
+        "standardDeviation": 0.00271,
         "timestamp": 1631145600000,
         "volume": 91399,
         "volumeProfile": "N/A"
@@ -4804,7 +4804,7 @@
         "high": 109.99,
         "low": 109.661,
         "open": 109.771,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1631232000000,
         "volume": 73638,
         "volumeProfile": "N/A"
@@ -4814,7 +4814,7 @@
         "high": 109.925,
         "low": 109.804,
         "open": 109.896,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1631404800000,
         "volume": 2183,
         "volumeProfile": "N/A"
@@ -4824,7 +4824,7 @@
         "high": 110.035,
         "low": 109.89,
         "open": 110.013,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1631491200000,
         "volume": 26296,
         "volumeProfile": "N/A"
@@ -4834,7 +4834,7 @@
         "high": 110.162,
         "low": 109.52,
         "open": 109.994,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1631577600000,
         "volume": 87138,
         "volumeProfile": "N/A"
@@ -4844,7 +4844,7 @@
         "high": 109.742,
         "low": 109.11,
         "open": 109.713,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1631664000000,
         "volume": 92885,
         "volumeProfile": "N/A"
@@ -4854,7 +4854,7 @@
         "high": 109.829,
         "low": 109.196,
         "open": 109.382,
-        "standardDeviation": null,
+        "standardDeviation": 0.00271,
         "timestamp": 1631750400000,
         "volume": 86260,
         "volumeProfile": "N/A"
@@ -4864,7 +4864,7 @@
         "high": 110.081,
         "low": 109.66,
         "open": 109.697,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1631836800000,
         "volume": 81649,
         "volumeProfile": "N/A"
@@ -4874,7 +4874,7 @@
         "high": 109.998,
         "low": 109.87,
         "open": 109.971,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1632009600000,
         "volume": 1414,
         "volumeProfile": "N/A"
@@ -4884,7 +4884,7 @@
         "high": 110.038,
         "low": 109.304,
         "open": 109.975,
-        "standardDeviation": null,
+        "standardDeviation": 0.00272,
         "timestamp": 1632096000000,
         "volume": 91441,
         "volumeProfile": "N/A"
@@ -4894,7 +4894,7 @@
         "high": 109.706,
         "low": 109.12,
         "open": 109.437,
-        "standardDeviation": null,
+        "standardDeviation": 0.00271,
         "timestamp": 1632182400000,
         "volume": 101162,
         "volumeProfile": "N/A"
@@ -4904,7 +4904,7 @@
         "high": 109.901,
         "low": 109.117,
         "open": 109.153,
-        "standardDeviation": null,
+        "standardDeviation": 0.00271,
         "timestamp": 1632268800000,
         "volume": 111161,
         "volumeProfile": "N/A"
@@ -4914,7 +4914,7 @@
         "high": 110.346,
         "low": 109.753,
         "open": 109.825,
-        "standardDeviation": null,
+        "standardDeviation": 0.00273,
         "timestamp": 1632355200000,
         "volume": 89867,
         "volumeProfile": "N/A"
@@ -4924,7 +4924,7 @@
         "high": 110.793,
         "low": 110.28,
         "open": 110.329,
-        "standardDeviation": null,
+        "standardDeviation": 0.00274,
         "timestamp": 1632441600000,
         "volume": 85956,
         "volumeProfile": "N/A"
@@ -4934,7 +4934,7 @@
         "high": 110.794,
         "low": 110.616,
         "open": 110.738,
-        "standardDeviation": null,
+        "standardDeviation": 0.00275,
         "timestamp": 1632614400000,
         "volume": 1687,
         "volumeProfile": "N/A"
@@ -4944,7 +4944,7 @@
         "high": 111.066,
         "low": 110.491,
         "open": 110.768,
-        "standardDeviation": null,
+        "standardDeviation": 0.00275,
         "timestamp": 1632700800000,
         "volume": 98597,
         "volumeProfile": "N/A"
@@ -4954,7 +4954,7 @@
         "high": 111.638,
         "low": 110.92,
         "open": 110.965,
-        "standardDeviation": null,
+        "standardDeviation": 0.00275,
         "timestamp": 1632787200000,
         "volume": 118659,
         "volumeProfile": "N/A"
@@ -4964,7 +4964,7 @@
         "high": 112.048,
         "low": 111.2,
         "open": 111.526,
-        "standardDeviation": null,
+        "standardDeviation": 0.00277,
         "timestamp": 1632873600000,
         "volume": 115784,
         "volumeProfile": "N/A"
@@ -4974,7 +4974,7 @@
         "high": 112.078,
         "low": 111.215,
         "open": 111.936,
-        "standardDeviation": null,
+        "standardDeviation": 0.00278,
         "timestamp": 1632960000000,
         "volume": 116989,
         "volumeProfile": "N/A"
@@ -4984,7 +4984,7 @@
         "high": 111.488,
         "low": 110.886,
         "open": 111.461,
-        "standardDeviation": null,
+        "standardDeviation": 0.00279,
         "timestamp": 1633046400000,
         "volume": 123536,
         "volumeProfile": "N/A"
@@ -4994,7 +4994,7 @@
         "high": 111.029,
         "low": 110.853,
         "open": 110.936,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1633219200000,
         "volume": 3040,
         "volumeProfile": "N/A"
@@ -5004,7 +5004,7 @@
         "high": 111.301,
         "low": 110.819,
         "open": 110.948,
-        "standardDeviation": null,
+        "standardDeviation": 0.00279,
         "timestamp": 1633305600000,
         "volume": 125028,
         "volumeProfile": "N/A"
@@ -5014,7 +5014,7 @@
         "high": 111.56,
         "low": 110.863,
         "open": 110.966,
-        "standardDeviation": null,
+        "standardDeviation": 0.00279,
         "timestamp": 1633392000000,
         "volume": 113721,
         "volumeProfile": "N/A"
@@ -5024,7 +5024,7 @@
         "high": 111.789,
         "low": 111.174,
         "open": 111.487,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1633478400000,
         "volume": 129597,
         "volumeProfile": "N/A"
@@ -5034,7 +5034,7 @@
         "high": 111.675,
         "low": 111.222,
         "open": 111.403,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1633564800000,
         "volume": 101225,
         "volumeProfile": "N/A"
@@ -5044,7 +5044,7 @@
         "high": 112.252,
         "low": 111.509,
         "open": 111.663,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1633651200000,
         "volume": 106227,
         "volumeProfile": "N/A"
@@ -5054,7 +5054,7 @@
         "high": 112.22,
         "low": 112.19,
         "open": 112.22,
-        "standardDeviation": null,
+        "standardDeviation": 0.00281,
         "timestamp": 1633737600000,
         "volume": 10,
         "volumeProfile": "N/A"
@@ -5064,7 +5064,7 @@
         "high": 112.324,
         "low": 112.085,
         "open": 112.085,
-        "standardDeviation": null,
+        "standardDeviation": 0.0028,
         "timestamp": 1633824000000,
         "volume": 3024,
         "volumeProfile": "N/A"
@@ -5074,7 +5074,7 @@
         "high": 113.413,
         "low": 112.17,
         "open": 112.271,
-        "standardDeviation": null,
+        "standardDeviation": 0.00277,
         "timestamp": 1633910400000,
         "volume": 94578,
         "volumeProfile": "N/A"
@@ -5084,7 +5084,7 @@
         "high": 113.787,
         "low": 113.001,
         "open": 113.387,
-        "standardDeviation": null,
+        "standardDeviation": 0.00284,
         "timestamp": 1633996800000,
         "volume": 126608,
         "volumeProfile": "N/A"
@@ -5094,7 +5094,7 @@
         "high": 113.72,
         "low": 113.19,
         "open": 113.536,
-        "standardDeviation": null,
+        "standardDeviation": 0.00284,
         "timestamp": 1634083200000,
         "volume": 88214,
         "volumeProfile": "N/A"
@@ -5104,7 +5104,7 @@
         "high": 113.884,
         "low": 113.26,
         "open": 113.307,
-        "standardDeviation": null,
+        "standardDeviation": 0.00284,
         "timestamp": 1634169600000,
         "volume": 98579,
         "volumeProfile": "N/A"
@@ -5114,7 +5114,7 @@
         "high": 114.462,
         "low": 113.79,
         "open": 113.833,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1634256000000,
         "volume": 106789,
         "volumeProfile": "N/A"
@@ -5124,7 +5124,7 @@
         "high": 114.363,
         "low": 114.155,
         "open": 114.245,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1634428800000,
         "volume": 4911,
         "volumeProfile": "N/A"
@@ -5134,7 +5134,7 @@
         "high": 114.45,
         "low": 114.01,
         "open": 114.324,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1634515200000,
         "volume": 99961,
         "volumeProfile": "N/A"
@@ -5144,7 +5144,7 @@
         "high": 114.579,
         "low": 113.854,
         "open": 114.285,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1634601600000,
         "volume": 82924,
         "volumeProfile": "N/A"
@@ -5154,7 +5154,7 @@
         "high": 114.696,
         "low": 114.07,
         "open": 114.54,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1634688000000,
         "volume": 87861,
         "volumeProfile": "N/A"
@@ -5164,7 +5164,7 @@
         "high": 114.408,
         "low": 113.647,
         "open": 114.387,
-        "standardDeviation": null,
+        "standardDeviation": 0.00285,
         "timestamp": 1634774400000,
         "volume": 116715,
         "volumeProfile": "N/A"
@@ -5174,7 +5174,7 @@
         "high": 114.207,
         "low": 113.166,
         "open": 113.85,
-        "standardDeviation": null,
+        "standardDeviation": 0.00287,
         "timestamp": 1634860800000,
         "volume": 108264,
         "volumeProfile": "N/A"
@@ -5184,7 +5184,7 @@
         "high": 113.46,
         "low": 113.336,
         "open": 113.46,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1634947200000,
         "volume": 4,
         "volumeProfile": "N/A"
@@ -5194,7 +5194,7 @@
         "high": 113.691,
         "low": 113.459,
         "open": 113.55,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1635033600000,
         "volume": 3224,
         "volumeProfile": "N/A"
@@ -5204,7 +5204,7 @@
         "high": 113.924,
         "low": 113.49,
         "open": 113.667,
-        "standardDeviation": null,
+        "standardDeviation": 0.00288,
         "timestamp": 1635120000000,
         "volume": 99652,
         "volumeProfile": "N/A"
@@ -5214,7 +5214,7 @@
         "high": 114.31,
         "low": 113.691,
         "open": 113.766,
-        "standardDeviation": null,
+        "standardDeviation": 0.00288,
         "timestamp": 1635206400000,
         "volume": 91724,
         "volumeProfile": "N/A"
@@ -5224,7 +5224,7 @@
         "high": 114.221,
         "low": 113.385,
         "open": 114.182,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1635292800000,
         "volume": 124066,
         "volumeProfile": "N/A"
@@ -5234,7 +5234,7 @@
         "high": 113.866,
         "low": 113.212,
         "open": 113.771,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1635379200000,
         "volume": 132800,
         "volumeProfile": "N/A"
@@ -5244,7 +5244,7 @@
         "high": 114.095,
         "low": 113.38,
         "open": 113.615,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1635465600000,
         "volume": 122861,
         "volumeProfile": "N/A"
@@ -5254,7 +5254,7 @@
         "high": 114.253,
         "low": 114.035,
         "open": 114.081,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1635638400000,
         "volume": 2835,
         "volumeProfile": "N/A"
@@ -5264,7 +5264,7 @@
         "high": 114.445,
         "low": 113.931,
         "open": 114.235,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1635724800000,
         "volume": 104781,
         "volumeProfile": "N/A"
@@ -5274,7 +5274,7 @@
         "high": 114.134,
         "low": 113.455,
         "open": 114.094,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1635811200000,
         "volume": 117625,
         "volumeProfile": "N/A"
@@ -5284,7 +5284,7 @@
         "high": 114.217,
         "low": 113.713,
         "open": 113.961,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1635897600000,
         "volume": 111608,
         "volumeProfile": "N/A"
@@ -5294,7 +5294,7 @@
         "high": 114.277,
         "low": 113.5,
         "open": 114.071,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1635984000000,
         "volume": 119632,
         "volumeProfile": "N/A"
@@ -5304,7 +5304,7 @@
         "high": 114.03,
         "low": 113.284,
         "open": 113.834,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1636070400000,
         "volume": 117692,
         "volumeProfile": "N/A"
@@ -5314,7 +5314,7 @@
         "high": 113.526,
         "low": 113.309,
         "open": 113.342,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1636243200000,
         "volume": 2210,
         "volumeProfile": "N/A"
@@ -5324,7 +5324,7 @@
         "high": 113.665,
         "low": 113.07,
         "open": 113.474,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1636329600000,
         "volume": 101854,
         "volumeProfile": "N/A"
@@ -5334,7 +5334,7 @@
         "high": 113.262,
         "low": 112.71,
         "open": 113.254,
-        "standardDeviation": null,
+        "standardDeviation": 0.0029,
         "timestamp": 1636416000000,
         "volume": 99168,
         "volumeProfile": "N/A"
@@ -5344,7 +5344,7 @@
         "high": 114.014,
         "low": 112.74,
         "open": 112.912,
-        "standardDeviation": null,
+        "standardDeviation": 0.00289,
         "timestamp": 1636502400000,
         "volume": 128390,
         "volumeProfile": "N/A"
@@ -5354,7 +5354,7 @@
         "high": 114.158,
         "low": 113.8,
         "open": 113.905,
-        "standardDeviation": null,
+        "standardDeviation": 0.00293,
         "timestamp": 1636588800000,
         "volume": 89713,
         "volumeProfile": "N/A"
@@ -5364,7 +5364,7 @@
         "high": 114.302,
         "low": 113.75,
         "open": 114.044,
-        "standardDeviation": null,
+        "standardDeviation": 0.00293,
         "timestamp": 1636675200000,
         "volume": 101898,
         "volumeProfile": "N/A"
@@ -5374,7 +5374,7 @@
         "high": 113.929,
         "low": 113.929,
         "open": 113.929,
-        "standardDeviation": null,
+        "standardDeviation": 0.00294,
         "timestamp": 1636761600000,
         "volume": 1,
         "volumeProfile": "N/A"
@@ -5384,7 +5384,7 @@
         "high": 114.044,
         "low": 113.836,
         "open": 113.836,
-        "standardDeviation": null,
+        "standardDeviation": 0.00291,
         "timestamp": 1636848000000,
         "volume": 2133,
         "volumeProfile": "N/A"
@@ -5394,7 +5394,7 @@
         "high": 114.217,
         "low": 113.748,
         "open": 113.984,
-        "standardDeviation": null,
+        "standardDeviation": 0.00291,
         "timestamp": 1636934400000,
         "volume": 98915,
         "volumeProfile": "N/A"
@@ -5404,7 +5404,7 @@
         "high": 114.968,
         "low": 114.082,
         "open": 114.131,
-        "standardDeviation": null,
+        "standardDeviation": 0.00291,
         "timestamp": 1637020800000,
         "volume": 114325,
         "volumeProfile": "N/A"
@@ -5414,7 +5414,7 @@
         "high": 114.947,
         "low": 113.916,
         "open": 114.904,
-        "standardDeviation": null,
+        "standardDeviation": 0.00294,
         "timestamp": 1637107200000,
         "volume": 122362,
         "volumeProfile": "N/A"
@@ -5424,7 +5424,7 @@
         "high": 114.484,
         "low": 113.874,
         "open": 114.193,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1637193600000,
         "volume": 118533,
         "volumeProfile": "N/A"
@@ -5434,7 +5434,7 @@
         "high": 114.539,
         "low": 113.586,
         "open": 114.283,
-        "standardDeviation": null,
+        "standardDeviation": 0.00296,
         "timestamp": 1637280000000,
         "volume": 135703,
         "volumeProfile": "N/A"
@@ -5444,7 +5444,7 @@
         "high": 114.96,
         "low": 114.035,
         "open": 114.128,
-        "standardDeviation": null,
+        "standardDeviation": 0.00298,
         "timestamp": 1637539200000,
         "volume": 100874,
         "volumeProfile": "N/A"
@@ -5454,7 +5454,7 @@
         "high": 115.22,
         "low": 114.482,
         "open": 114.79,
-        "standardDeviation": null,
+        "standardDeviation": 0.003,
         "timestamp": 1637625600000,
         "volume": 137477,
         "volumeProfile": "N/A"
@@ -5464,7 +5464,7 @@
         "high": 115.519,
         "low": 114.823,
         "open": 115.14,
-        "standardDeviation": null,
+        "standardDeviation": 0.003,
         "timestamp": 1637712000000,
         "volume": 136017,
         "volumeProfile": "N/A"
@@ -5474,7 +5474,7 @@
         "high": 115.447,
         "low": 115.01,
         "open": 115.408,
-        "standardDeviation": null,
+        "standardDeviation": 0.003,
         "timestamp": 1637798400000,
         "volume": 95392,
         "volumeProfile": "N/A"
@@ -5484,7 +5484,7 @@
         "high": 115.111,
         "low": 113.036,
         "open": 115.076,
-        "standardDeviation": null,
+        "standardDeviation": 0.003,
         "timestamp": 1637884800000,
         "volume": 198112,
         "volumeProfile": "N/A"
@@ -5494,7 +5494,7 @@
         "high": 113.87,
         "low": 113.317,
         "open": 113.45,
-        "standardDeviation": null,
+        "standardDeviation": 0.00315,
         "timestamp": 1638057600000,
         "volume": 7802,
         "volumeProfile": "N/A"
@@ -5504,7 +5504,7 @@
         "high": 113.957,
         "low": 112.989,
         "open": 113.719,
-        "standardDeviation": null,
+        "standardDeviation": 0.00316,
         "timestamp": 1638144000000,
         "volume": 161411,
         "volumeProfile": "N/A"
@@ -5514,7 +5514,7 @@
         "high": 113.89,
         "low": 112.52,
         "open": 113.805,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1638230400000,
         "volume": 196050,
         "volumeProfile": "N/A"
@@ -5524,7 +5524,7 @@
         "high": 113.627,
         "low": 112.626,
         "open": 113.302,
-        "standardDeviation": null,
+        "standardDeviation": 0.00315,
         "timestamp": 1638316800000,
         "volume": 164281,
         "volumeProfile": "N/A"
@@ -5534,7 +5534,7 @@
         "high": 113.331,
         "low": 112.704,
         "open": 112.879,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1638403200000,
         "volume": 159771,
         "volumeProfile": "N/A"
@@ -5544,7 +5544,7 @@
         "high": 113.61,
         "low": 112.55,
         "open": 113.022,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1638489600000,
         "volume": 138147,
         "volumeProfile": "N/A"
@@ -5554,7 +5554,7 @@
         "high": 112.8,
         "low": 112.79,
         "open": 112.8,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1638576000000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -5564,7 +5564,7 @@
         "high": 113.551,
         "low": 113.07,
         "open": 113.228,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1638748800000,
         "volume": 47663,
         "volumeProfile": "N/A"
@@ -5574,7 +5574,7 @@
         "high": 113.779,
         "low": 113.397,
         "open": 113.467,
-        "standardDeviation": null,
+        "standardDeviation": 0.00315,
         "timestamp": 1638835200000,
         "volume": 107374,
         "volumeProfile": "N/A"
@@ -5584,7 +5584,7 @@
         "high": 113.954,
         "low": 113.3,
         "open": 113.524,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1638921600000,
         "volume": 121229,
         "volumeProfile": "N/A"
@@ -5594,7 +5594,7 @@
         "high": 113.813,
         "low": 113.27,
         "open": 113.684,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1639008000000,
         "volume": 100444,
         "volumeProfile": "N/A"
@@ -5604,7 +5604,7 @@
         "high": 113.795,
         "low": 113.22,
         "open": 113.441,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1639094400000,
         "volume": 106005,
         "volumeProfile": "N/A"
@@ -5614,7 +5614,7 @@
         "high": 113.38,
         "low": 113.38,
         "open": 113.38,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1639180800000,
         "volume": 1,
         "volumeProfile": "N/A"
@@ -5624,7 +5624,7 @@
         "high": 113.703,
         "low": 113.355,
         "open": 113.685,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1639353600000,
         "volume": 50442,
         "volumeProfile": "N/A"
@@ -5634,7 +5634,7 @@
         "high": 113.758,
         "low": 113.425,
         "open": 113.577,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1639440000000,
         "volume": 102283,
         "volumeProfile": "N/A"
@@ -5644,7 +5644,7 @@
         "high": 114.264,
         "low": 113.621,
         "open": 113.742,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1639526400000,
         "volume": 120266,
         "volumeProfile": "N/A"
@@ -5654,7 +5654,7 @@
         "high": 114.247,
         "low": 113.551,
         "open": 114.143,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1639612800000,
         "volume": 128312,
         "volumeProfile": "N/A"
@@ -5664,7 +5664,7 @@
         "high": 113.861,
         "low": 113.138,
         "open": 113.667,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1639699200000,
         "volume": 126424,
         "volumeProfile": "N/A"
@@ -5674,7 +5674,7 @@
         "high": 113.7,
         "low": 113.67,
         "open": 113.67,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1639785600000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -5684,7 +5684,7 @@
         "high": 113.718,
         "low": 113.252,
         "open": 113.252,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1639872000000,
         "volume": 3799,
         "volumeProfile": "N/A"
@@ -5694,7 +5694,7 @@
         "high": 113.728,
         "low": 113.324,
         "open": 113.515,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1639958400000,
         "volume": 116272,
         "volumeProfile": "N/A"
@@ -5704,7 +5704,7 @@
         "high": 114.221,
         "low": 113.555,
         "open": 113.662,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1640044800000,
         "volume": 55627,
         "volumeProfile": "N/A"
@@ -5714,7 +5714,7 @@
         "high": 114.372,
         "low": 113.99,
         "open": 113.992,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1640131200000,
         "volume": 98181,
         "volumeProfile": "N/A"
@@ -5724,7 +5724,7 @@
         "high": 114.475,
         "low": 114.099,
         "open": 114.126,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1640217600000,
         "volume": 92240,
         "volumeProfile": "N/A"
@@ -5734,7 +5734,7 @@
         "high": 114.512,
         "low": 114.231,
         "open": 114.457,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1640304000000,
         "volume": 113558,
         "volumeProfile": "N/A"
@@ -5744,7 +5744,7 @@
         "high": 114.395,
         "low": 114.276,
         "open": 114.276,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1640476800000,
         "volume": 2323,
         "volumeProfile": "N/A"
@@ -5754,7 +5754,7 @@
         "high": 114.914,
         "low": 114.313,
         "open": 114.333,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1640563200000,
         "volume": 72610,
         "volumeProfile": "N/A"
@@ -5764,7 +5764,7 @@
         "high": 114.95,
         "low": 114.69,
         "open": 114.789,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1640649600000,
         "volume": 77034,
         "volumeProfile": "N/A"
@@ -5774,7 +5774,7 @@
         "high": 115.036,
         "low": 114.663,
         "open": 114.764,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1640736000000,
         "volume": 84092,
         "volumeProfile": "N/A"
@@ -5784,7 +5784,7 @@
         "high": 115.207,
         "low": 114.892,
         "open": 114.946,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1640822400000,
         "volume": 81571,
         "volumeProfile": "N/A"
@@ -5794,7 +5794,7 @@
         "high": 115.199,
         "low": 114.99,
         "open": 115.063,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1640908800000,
         "volume": 66686,
         "volumeProfile": "N/A"
@@ -5804,7 +5804,7 @@
         "high": 115.154,
         "low": 115.011,
         "open": 115.011,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1641081600000,
         "volume": 1906,
         "volumeProfile": "N/A"
@@ -5814,7 +5814,7 @@
         "high": 115.365,
         "low": 114.94,
         "open": 115.141,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1641168000000,
         "volume": 85904,
         "volumeProfile": "N/A"
@@ -5824,7 +5824,7 @@
         "high": 116.348,
         "low": 115.288,
         "open": 115.328,
-        "standardDeviation": null,
+        "standardDeviation": 0.00307,
         "timestamp": 1641254400000,
         "volume": 110776,
         "volumeProfile": "N/A"
@@ -5834,7 +5834,7 @@
         "high": 116.243,
         "low": 115.61,
         "open": 116.174,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1641340800000,
         "volume": 110349,
         "volumeProfile": "N/A"
@@ -5844,7 +5844,7 @@
         "high": 116.184,
         "low": 115.62,
         "open": 116.128,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1641427200000,
         "volume": 124627,
         "volumeProfile": "N/A"
@@ -5854,7 +5854,7 @@
         "high": 116.051,
         "low": 115.502,
         "open": 115.865,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1641513600000,
         "volume": 82105,
         "volumeProfile": "N/A"
@@ -5864,7 +5864,7 @@
         "high": 115.55,
         "low": 115.51,
         "open": 115.55,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1641600000000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -5874,7 +5874,7 @@
         "high": 115.666,
         "low": 115.541,
         "open": 115.541,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1641686400000,
         "volume": 4550,
         "volumeProfile": "N/A"
@@ -5884,7 +5884,7 @@
         "high": 115.852,
         "low": 115.04,
         "open": 115.619,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1641772800000,
         "volume": 107882,
         "volumeProfile": "N/A"
@@ -5894,7 +5894,7 @@
         "high": 115.68,
         "low": 115.123,
         "open": 115.278,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1641859200000,
         "volume": 110280,
         "volumeProfile": "N/A"
@@ -5904,7 +5904,7 @@
         "high": 115.471,
         "low": 114.341,
         "open": 115.333,
-        "standardDeviation": null,
+        "standardDeviation": 0.00307,
         "timestamp": 1641945600000,
         "volume": 110840,
         "volumeProfile": "N/A"
@@ -5914,7 +5914,7 @@
         "high": 114.701,
         "low": 113.962,
         "open": 114.67,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1642032000000,
         "volume": 105192,
         "volumeProfile": "N/A"
@@ -5924,7 +5924,7 @@
         "high": 114.266,
         "low": 113.48,
         "open": 114.115,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1642118400000,
         "volume": 125217,
         "volumeProfile": "N/A"
@@ -5934,7 +5934,7 @@
         "high": 114.651,
         "low": 114.3,
         "open": 114.455,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1642377600000,
         "volume": 73124,
         "volumeProfile": "N/A"
@@ -5944,7 +5944,7 @@
         "high": 115.059,
         "low": 114.44,
         "open": 114.571,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1642464000000,
         "volume": 134989,
         "volumeProfile": "N/A"
@@ -5954,7 +5954,7 @@
         "high": 114.789,
         "low": 114.176,
         "open": 114.557,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1642550400000,
         "volume": 130031,
         "volumeProfile": "N/A"
@@ -5964,7 +5964,7 @@
         "high": 114.548,
         "low": 113.85,
         "open": 114.346,
-        "standardDeviation": null,
+        "standardDeviation": 0.00309,
         "timestamp": 1642636800000,
         "volume": 126162,
         "volumeProfile": "N/A"
@@ -5974,7 +5974,7 @@
         "high": 114.033,
         "low": 113.583,
         "open": 113.993,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1642723200000,
         "volume": 133636,
         "volumeProfile": "N/A"
@@ -5984,7 +5984,7 @@
         "high": 113.8,
         "low": 113.632,
         "open": 113.652,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1642896000000,
         "volume": 4235,
         "volumeProfile": "N/A"
@@ -5994,7 +5994,7 @@
         "high": 114.095,
         "low": 113.467,
         "open": 113.789,
-        "standardDeviation": null,
+        "standardDeviation": 0.0031,
         "timestamp": 1642982400000,
         "volume": 141965,
         "volumeProfile": "N/A"
@@ -6004,7 +6004,7 @@
         "high": 114.156,
         "low": 113.66,
         "open": 114.011,
-        "standardDeviation": null,
+        "standardDeviation": 0.00311,
         "timestamp": 1643068800000,
         "volume": 137639,
         "volumeProfile": "N/A"
@@ -6014,7 +6014,7 @@
         "high": 114.74,
         "low": 113.769,
         "open": 113.891,
-        "standardDeviation": null,
+        "standardDeviation": 0.00308,
         "timestamp": 1643155200000,
         "volume": 108896,
         "volumeProfile": "N/A"
@@ -6024,7 +6024,7 @@
         "high": 115.488,
         "low": 114.469,
         "open": 114.716,
-        "standardDeviation": null,
+        "standardDeviation": 0.00312,
         "timestamp": 1643241600000,
         "volume": 154681,
         "volumeProfile": "N/A"
@@ -6034,7 +6034,7 @@
         "high": 115.686,
         "low": 115.115,
         "open": 115.352,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1643328000000,
         "volume": 126469,
         "volumeProfile": "N/A"
@@ -6044,7 +6044,7 @@
         "high": 115.374,
         "low": 115.232,
         "open": 115.24,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1643500800000,
         "volume": 5438,
         "volumeProfile": "N/A"
@@ -6054,7 +6054,7 @@
         "high": 115.591,
         "low": 114.89,
         "open": 115.261,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1643587200000,
         "volume": 131780,
         "volumeProfile": "N/A"
@@ -6064,7 +6064,7 @@
         "high": 115.193,
         "low": 114.56,
         "open": 115.121,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1643673600000,
         "volume": 127018,
         "volumeProfile": "N/A"
@@ -6074,7 +6074,7 @@
         "high": 114.801,
         "low": 114.156,
         "open": 114.735,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1643760000000,
         "volume": 111029,
         "volumeProfile": "N/A"
@@ -6084,7 +6084,7 @@
         "high": 114.987,
         "low": 114.317,
         "open": 114.378,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1643846400000,
         "volume": 135090,
         "volumeProfile": "N/A"
@@ -6094,7 +6094,7 @@
         "high": 115.43,
         "low": 114.794,
         "open": 114.957,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1643932800000,
         "volume": 80987,
         "volumeProfile": "N/A"
@@ -6104,7 +6104,7 @@
         "high": 115.32,
         "low": 115.185,
         "open": 115.185,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1644105600000,
         "volume": 5820,
         "volumeProfile": "N/A"
@@ -6114,7 +6114,7 @@
         "high": 115.377,
         "low": 114.88,
         "open": 115.226,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1644192000000,
         "volume": 118960,
         "volumeProfile": "N/A"
@@ -6124,7 +6124,7 @@
         "high": 115.682,
         "low": 115.053,
         "open": 115.062,
-        "standardDeviation": null,
+        "standardDeviation": 0.00313,
         "timestamp": 1644278400000,
         "volume": 124408,
         "volumeProfile": "N/A"
@@ -6134,7 +6134,7 @@
         "high": 115.602,
         "low": 115.31,
         "open": 115.531,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1644364800000,
         "volume": 113375,
         "volumeProfile": "N/A"
@@ -6144,7 +6144,7 @@
         "high": 116.313,
         "low": 115.46,
         "open": 115.601,
-        "standardDeviation": null,
+        "standardDeviation": 0.00314,
         "timestamp": 1644451200000,
         "volume": 100318,
         "volumeProfile": "N/A"
@@ -6154,7 +6154,7 @@
         "high": 116.175,
         "low": 114.65,
         "open": 116.049,
-        "standardDeviation": null,
+        "standardDeviation": 0.00315,
         "timestamp": 1644537600000,
         "volume": 137803,
         "volumeProfile": "N/A"
@@ -6164,7 +6164,7 @@
         "high": 115.66,
         "low": 115.41,
         "open": 115.41,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1644624000000,
         "volume": 4,
         "volumeProfile": "N/A"
@@ -6174,7 +6174,7 @@
         "high": 115.592,
         "low": 115.155,
         "open": 115.285,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1644710400000,
         "volume": 6571,
         "volumeProfile": "N/A"
@@ -6184,7 +6184,7 @@
         "high": 115.75,
         "low": 115.005,
         "open": 115.584,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1644796800000,
         "volume": 167881,
         "volumeProfile": "N/A"
@@ -6194,7 +6194,7 @@
         "high": 115.873,
         "low": 115.233,
         "open": 115.537,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1644883200000,
         "volume": 143135,
         "volumeProfile": "N/A"
@@ -6204,7 +6204,7 @@
         "high": 115.789,
         "low": 115.33,
         "open": 115.64,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1644969600000,
         "volume": 127652,
         "volumeProfile": "N/A"
@@ -6214,7 +6214,7 @@
         "high": 115.538,
         "low": 114.789,
         "open": 115.389,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1645056000000,
         "volume": 166148,
         "volumeProfile": "N/A"
@@ -6224,7 +6224,7 @@
         "high": 115.297,
         "low": 114.77,
         "open": 114.856,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1645142400000,
         "volume": 129409,
         "volumeProfile": "N/A"
@@ -6234,7 +6234,7 @@
         "high": 115.041,
         "low": 114.865,
         "open": 114.909,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1645315200000,
         "volume": 4597,
         "volumeProfile": "N/A"
@@ -6244,7 +6244,7 @@
         "high": 115.127,
         "low": 114.477,
         "open": 114.955,
-        "standardDeviation": null,
+        "standardDeviation": 0.00317,
         "timestamp": 1645401600000,
         "volume": 108620,
         "volumeProfile": "N/A"
@@ -6254,7 +6254,7 @@
         "high": 115.242,
         "low": 114.518,
         "open": 114.608,
-        "standardDeviation": null,
+        "standardDeviation": 0.00318,
         "timestamp": 1645488000000,
         "volume": 171935,
         "volumeProfile": "N/A"
@@ -6264,7 +6264,7 @@
         "high": 115.2,
         "low": 114.86,
         "open": 115.096,
-        "standardDeviation": null,
+        "standardDeviation": 0.00319,
         "timestamp": 1645574400000,
         "volume": 112288,
         "volumeProfile": "N/A"
@@ -6274,7 +6274,7 @@
         "high": 115.695,
         "low": 114.4,
         "open": 114.898,
-        "standardDeviation": null,
+        "standardDeviation": 0.00319,
         "timestamp": 1645660800000,
         "volume": 249272,
         "volumeProfile": "N/A"
@@ -6284,7 +6284,7 @@
         "high": 115.761,
         "low": 115.14,
         "open": 115.548,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1645747200000,
         "volume": 166095,
         "volumeProfile": "N/A"
@@ -6294,7 +6294,7 @@
         "high": 115.56,
         "low": 115.53,
         "open": 115.56,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1645833600000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -6304,7 +6304,7 @@
         "high": 115.771,
         "low": 114.997,
         "open": 115.56,
-        "standardDeviation": null,
+        "standardDeviation": 0.00319,
         "timestamp": 1645920000000,
         "volume": 8849,
         "volumeProfile": "N/A"
@@ -6314,7 +6314,7 @@
         "high": 115.691,
         "low": 114.858,
         "open": 115.587,
-        "standardDeviation": null,
+        "standardDeviation": 0.00318,
         "timestamp": 1646006400000,
         "volume": 171061,
         "volumeProfile": "N/A"
@@ -6324,7 +6324,7 @@
         "high": 115.291,
         "low": 114.693,
         "open": 115.082,
-        "standardDeviation": null,
+        "standardDeviation": 0.00319,
         "timestamp": 1646092800000,
         "volume": 154942,
         "volumeProfile": "N/A"
@@ -6334,7 +6334,7 @@
         "high": 115.686,
         "low": 114.78,
         "open": 114.838,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1646179200000,
         "volume": 162108,
         "volumeProfile": "N/A"
@@ -6344,7 +6344,7 @@
         "high": 115.81,
         "low": 115.37,
         "open": 115.519,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1646265600000,
         "volume": 138347,
         "volumeProfile": "N/A"
@@ -6354,7 +6354,7 @@
         "high": 115.559,
         "low": 114.63,
         "open": 115.485,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1646352000000,
         "volume": 170703,
         "volumeProfile": "N/A"
@@ -6364,7 +6364,7 @@
         "high": 114.8,
         "low": 114.78,
         "open": 114.78,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1646438400000,
         "volume": 2,
         "volumeProfile": "N/A"
@@ -6374,7 +6374,7 @@
         "high": 114.967,
         "low": 114.762,
         "open": 114.762,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1646524800000,
         "volume": 7383,
         "volumeProfile": "N/A"
@@ -6384,7 +6384,7 @@
         "high": 115.472,
         "low": 114.82,
         "open": 114.947,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1646611200000,
         "volume": 169117,
         "volumeProfile": "N/A"
@@ -6394,7 +6394,7 @@
         "high": 115.79,
         "low": 115.304,
         "open": 115.367,
-        "standardDeviation": null,
+        "standardDeviation": 0.00321,
         "timestamp": 1646697600000,
         "volume": 162130,
         "volumeProfile": "N/A"
@@ -6404,7 +6404,7 @@
         "high": 115.948,
         "low": 115.554,
         "open": 115.736,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1646784000000,
         "volume": 126613,
         "volumeProfile": "N/A"
@@ -6414,7 +6414,7 @@
         "high": 116.221,
         "low": 115.792,
         "open": 115.909,
-        "standardDeviation": null,
+        "standardDeviation": 0.00322,
         "timestamp": 1646870400000,
         "volume": 128009,
         "volumeProfile": "N/A"
@@ -6424,7 +6424,7 @@
         "high": 117.355,
         "low": 116.13,
         "open": 116.181,
-        "standardDeviation": null,
+        "standardDeviation": 0.0032,
         "timestamp": 1646956800000,
         "volume": 122977,
         "volumeProfile": "N/A"

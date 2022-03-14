@@ -25,17 +25,17 @@ CandlestickCollection.prototype.push = function(candlestick) {
     if (this.hasCandlesticksMoreThanOneYear()) {
         const oneYearCollection = this
             .__collection
-            .slice(this.__collection.length - this.__numberOfCandlesAYear);
+            .slice(this.__collection.length - NUMBER_OF_CANDLESTICKS_A_YEAR);
 
-        candlestick
-            .setStandardDeviation(MathFn
-                .standardDeviation(oneYearCollection
-                    .map(candlestickOfYear => {
-                        // console.log(candlestickOfYear.getCloseDiff());
-                        return candlestickOfYear.getCloseDiff();
-                    })
-                )
+        const standardDeviation = MathFn
+            .standardDeviation(oneYearCollection
+                .map(candlestick => {
+                    // console.log(candlestick.getCloseDiff());
+                    return candlestick.getCloseDiff();
+                })
             );
+
+        candlestick.setStandardDeviation(standardDeviation);
     }
 
     this.__collection.push(candlestick);
