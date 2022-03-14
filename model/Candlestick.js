@@ -1,71 +1,104 @@
-export default class Candlestick {
-    __closeDiff = 'N/A';
-    __highDiff = 'N/A';
-    __lowDiff = 'N/A';
-    __openDiff = 'N/A';
-    __volumeDiff = 'N/A';
+export default function Candlestick({
+    close,
+    high,
+    low,
+    open,
+    timestamp,
+    volume,
+}) {
+    this.__standardDeviation = 'N/A';
 
-    __volumeProfile = 'N/A';
-    __volumeProfileDiff = 'N/A';
+    this.__closeDiff = 'N/A';
+    this.__highDiff = 'N/A';
+    this.__lowDiff = 'N/A';
+    this.__openDiff = 'N/A';
+    this.__volumeDiff = 'N/A';
 
-    constructor({
-        close,
-        high,
-        low,
-        open,
-        timestamp,
-        volume,
-    }) {
-        this.__close = close;
-        this.__high = high;
-        this.__low = low;
-        this.__open = open;
-        this.__timestamp = timestamp;
-        this.__volume = volume;
-    }
+    this.__volumeProfile = 'N/A';
+    this.__volumeProfileDiff = 'N/A';
 
-    setStandardDeviation(value) {
-        this._standardDeviation = value;
-        return this;
-    }
+    this.__close = close;
+    this.__high = high;
+    this.__low = low;
+    this.__open = open;
+    this.__timestamp = timestamp;
+    this.__volume = volume;
+}
 
-    getClose = () => this.__close;
-    getHigh = () => this.__high;
-    getLow = () => this.__low;
-    getOpen = () => this.__open;
-    getTimestamp = () => this.__timestamp;
-    getVolume = () => this.__volume;
-    getStandardDeviation = () => this.__standardDeviation;
+Candlestick.prototype.setStandardDeviation = function(value) {
+    this.__standardDeviation = value;
+    return this;
+}
 
-    setCloseDiff(value) {
-        this.__closeDiff = value;
-        return this;
-    }
+Candlestick.prototype.getClose = function () {
+    return this.__close
+}
 
-    setHighDiff(value) {
-        this.__highDiff = value;
-        return this;
-    }
+Candlestick.prototype.getHigh = function () {
+    return this.__high;
+}
 
-    setLowDiff(value) {
-        this.__lowDiff = value;
-        return this;
-    }
+Candlestick.prototype.getLow = function () {
+    return this.__low;
+}
 
-    setOpenDiff(value) {
-        this.__openDiff = value;
-        return this;
-    }
+Candlestick.prototype.getOpen = function () {
+    return this.__open;
+}
 
-    setVolumeDiff(value) {
-        this.__volumeDiff = value;
-        return this;
-    }
+Candlestick.prototype.getTimestamp = function () {
+    return this.__timestamp;
+}
 
+Candlestick.prototype.getVolume = function () {
+    return this.__volume;
+}
 
-    getCloseDiff = () => this.__closeDiff;
-    getHighDiff = () => this.__highDiff;
-    getLowDiff = () => this.__lowDiff;
-    getOpenDiff = () => this.__openDiff;
-    getVolumeDiff = () => this.__volumeDiff;
+Candlestick.prototype.getStandardDeviation = function () {
+    return this.__standardDeviation;
+}
+
+Candlestick.prototype.setCloseDiff = function(value) {
+    this.__closeDiff = value;
+    return this;
+}
+
+Candlestick.prototype.setHighDiff = function(value) {
+    this.__highDiff = value;
+    return this;
+}
+
+Candlestick.prototype.setLowDiff = function(value) {
+    this.__lowDiff = value;
+    return this;
+}
+
+Candlestick.prototype.setOpenDiff = function(value) {
+    this.__openDiff = value;
+    return this;
+}
+
+Candlestick.prototype.setVolumeDiff = function(value) {
+    this.__volumeDiff = value;
+    return this;
+}
+
+Candlestick.prototype.getCloseDiff = function () {
+    return this.__closeDiff;
+}
+
+Candlestick.prototype.getHighDiff = function () {
+    return this.__highDiff;
+}
+
+Candlestick.prototype.getLowDiff = function () {
+    return this.__lowDiff;
+}
+
+Candlestick.prototype.getOpenDiff = function () {
+    return this.__openDiff;
+}
+
+Candlestick.prototype.getVolumeDiff = function () {
+    return this.__volumeDiff;
 }

@@ -7,4 +7,4 @@ test
         endDate: '2022-03-11',
         symbol: 'C:EURUSD',
     })
-    .then(data => console.log(data.__collection));
+    .then(candlestickCollection => console.log(candlestickCollection.__collection));
