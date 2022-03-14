@@ -71,3 +71,9 @@ DateTimeAdaptor.prototype.valueOf = function () {
         .__moment
         .valueOf();
 }
+
+DateTimeAdaptor.prototype.isSameOrBefore = function(momentObj) {
+    return this
+        .__moment
+        .valueOf() <= momentObj.valueOf();
+}
