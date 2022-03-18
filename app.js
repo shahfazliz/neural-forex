@@ -2,6 +2,7 @@ export default function App() {
     this.__listOfCurrencies = [
         'EURUSD',
         'USDJPY',
+        'GBPJPY',
     ];
 }
 

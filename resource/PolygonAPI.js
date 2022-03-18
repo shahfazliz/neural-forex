@@ -11,6 +11,7 @@ PolygonAPI.prototype.getDailyCandlestickCollection = function({
     endDate,
     symbol
 }) {
+    console.log(`Retrieving data for ${symbol} from ${startDate} to ${endDate}`);
     return HTTPAdaptor
         .get(
             `https://api.polygon.io/v2/aggs/ticker/C:${symbol}/range/1/day/${startDate}/${endDate}`,
@@ -26,7 +27,7 @@ PolygonAPI.prototype.getDailyCandlestickCollection = function({
                 .results;
         })
         .then(results => {
-            const candlestickCollection = new CandlestickCollection();
+            const candlestickCollection = new CandlestickCollection(symbol);
 
             results.forEach(result => {
                 candlestickCollection.push(new Candlestick({

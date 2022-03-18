@@ -1,10 +1,18 @@
 import ArrayFn from '../utilities/ArrayFn.js';
+import CollectionService from '../resource/CollectionService.js';
 import MathFn from '../utilities/MathFn.js';
 
 const NUMBER_OF_CANDLESTICKS_A_YEAR = 252; // To calculate standard deviation
-export default function CandlestickCollection() {
+export default function CandlestickCollection(symbol) {
+    this.__symbol = symbol;
     this.__collection = [];
     this.__volumeProfile = new Map();
+}
+
+CandlestickCollection.prototype.initVolumeProfile = function () {
+    return CollectionService
+        .readJSONFileAsVolumeProfile(this.__symbol)
+        .then(volumeProfileMap => this.__volumeProfile = volumeProfileMap);
 }
 
 CandlestickCollection.prototype.push = function(candlestick) {
@@ -39,34 +47,31 @@ CandlestickCollection.prototype.push = function(candlestick) {
         candlestick.setStandardDeviation(standardDeviation);
     }
 
-    // update volume profile
-    this.updateVolumeProfile(candlestick);
-
     this.__collection.push(candlestick);
     return this;
 }
 
 CandlestickCollection.prototype.updateVolumeProfile = function (candlestick) {
-    let priceLevels = new Map();
+    const priceLevels = (candlestick.getHigh() - candlestick.getLow()) * 100000 + 1;
+    const averageVolumePerPriceLevel = candlestick.getVolume() / priceLevels;
+
     for (let price = candlestick.getLow(); price <= candlestick.getHigh(); price = MathFn.precision(price + 0.00001)) {
-        priceLevels.set(`${price}`, 0);
-    }
-
-    const averageVolumePerPriceLevel = candlestick.getVolume() / priceLevels.size;
-
-    priceLevels.forEach((volume, price) => {
         this.__volumeProfile.set(
             `${price}`,
             this.__volumeProfile.has(`${price}`)
                 ? this.__volumeProfile.get(`${price}`) + averageVolumePerPriceLevel
                 : averageVolumePerPriceLevel,
         );
-    });
+    }
 
     return this;
 }
 
-CandlestickCollection.prototype.getVolumeProfile = function (price) {
+CandlestickCollection.prototype.getVolumeProfileMap = function () {
+    return this.__volumeProfile;
+}
+
+CandlestickCollection.prototype.getVolumeProfileMapAt = function(price) {
     return this
         .__volumeProfile
         .get(`${price}`);
@@ -110,13 +115,13 @@ CandlestickCollection.prototype.getByIndex = function(index) {
     return this.__collection[index];
 }
 
-CandlestickCollection.prototype.setAllVolumeProfile = function () {
+CandlestickCollection.prototype.resetAllVolumeProfile = function () {
     for (let i = 0; i < this.length(); i++) {
         const candlestick = this.getByIndex(i);
 
         candlestick
             .setVolumeProfile(this
-                .getVolumeProfile(candlestick.getClose()));
+                .getVolumeProfileMapAt(candlestick.getClose()));
 
         if (i > 0) {
             const previousCandlestickVolumeProfile = this

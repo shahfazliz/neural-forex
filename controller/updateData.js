@@ -17,6 +17,8 @@ function updateData(symbol) {
     return CollectionService
         .readJSONFileAsCandlestickCollection(symbol)
         .then(candlestickCollection => {
+            console.log(`${symbol} loaded into memory`);
+
             // get start date and end date
             const startDate = candlestickCollection.isEmpty()
                 ? new DateTimeAdaptor(API_START_DATE)
@@ -35,17 +37,20 @@ function updateData(symbol) {
                         endDate: endDate.format(),
                         symbol,
                     })
-                    // save into collection
+                    // update volume profile & save into collection
                     .then(newCandlestickCollection => {
                         newCandlestickCollection.forEach(candlestick => {
-                            candlestickCollection.push(candlestick)
+                            candlestickCollection
+                                .push(candlestick)
+                                .updateVolumeProfile(candlestick);
                         });
-
+                        console.log(`${symbol} update volume profile and candlestickCollection`);
                         return candlestickCollection;
                     })
-                    // update volume profile
+                    // reset volume profile
                     .then(candlestickCollection => {
-                        return candlestickCollection.setAllVolumeProfile();
+                        console.log(`${symbol} reset volume profile`);
+                        return candlestickCollection.resetAllVolumeProfile();
                     })
                     // save into collection into file
                     .then(candlestickCollection => {
@@ -53,6 +58,13 @@ function updateData(symbol) {
                             symbol,
                             data: candlestickCollection.toString(),
                         });
+                    })
+                    // save volume profile into file
+                    .then(() => {
+                        return CollectionService.writeVolumeProfileMapIntoJSONFile({
+                            data: candlestickCollection.getVolumeProfileMap(),
+                            symbol,
+                        })
                     });
         });
 }

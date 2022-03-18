@@ -11,15 +11,20 @@ export default {
 function readJSONFile(jsonfilepath) {
     return fs
         .readFile(jsonfilepath)
-        .then(rawJson => JSON.parse(rawJson))
+        .then(rawJson => {
+            console.log(`Reading from ${jsonfilepath}`);
+            return JSON.parse(rawJson);
+        })
         // If file does not exist, create one
-        .catch(() => this
+        .catch(() => {
+            console.log(`File not exist, creating ${jsonfilepath}`);
+            return this
             .writeJSONFile({
                 jsonfilepath,
                 data: [],
             })
-            .then(data => data)
-        );
+            .then(data => data);
+        });
 }
 
 /**
