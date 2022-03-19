@@ -30,14 +30,19 @@ PolygonAPI.prototype.getDailyCandlestickCollection = function({
             const candlestickCollection = new CandlestickCollection(symbol);
 
             results.forEach(result => {
-                candlestickCollection.push(new Candlestick({
+                const candlestick = new Candlestick({
                     close: result.c,
                     high: result.h,
                     low: result.l,
                     open: result.o,
                     timestamp: result.t,
                     volume: result.v,
-                }));
+                });
+
+                // Delete Sundays and Saturday data
+                if (candlestick.getDay() !== 0 && candlestick.getDay() !== 6) {
+                    candlestickCollection.push(candlestick);
+                }
             });
 
             return candlestickCollection;

@@ -24,6 +24,12 @@ DateTimeAdaptor.prototype.day = function () {
         .day();
 }
 
+DateTimeAdaptor.prototype.month = function () {
+    return this
+        .__moment
+        .month();
+}
+
 DateTimeAdaptor.prototype.subtract = function(number, timeframe) {
     this
         .__moment
@@ -72,8 +78,8 @@ DateTimeAdaptor.prototype.valueOf = function () {
         .valueOf();
 }
 
-DateTimeAdaptor.prototype.isSameOrBefore = function(momentObj) {
+DateTimeAdaptor.prototype.isAfter = function(momentObj) {
     return this
         .__moment
-        .valueOf() <= momentObj.valueOf();
+        .valueOf() > momentObj.valueOf();
 }

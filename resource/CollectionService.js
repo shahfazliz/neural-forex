@@ -6,6 +6,7 @@ export default {
     readJSONFileAsCandlestickCollection,
     readJSONFileAsVolumeProfile,
     writeCandlestickCollectionIntoJSONFile,
+    writeForexWorldIntoJSONFile,
     writeVolumeProfileMapIntoJSONFile,
 }
 
@@ -57,5 +58,15 @@ function writeVolumeProfileMapIntoJSONFile({
         .writeJSONFile({
             data: Object.fromEntries(data),
             jsonfilepath: `./data/volumeProfile/${symbol}.json`,
+        });
+}
+
+function writeForexWorldIntoJSONFile({
+    data
+}) {
+    return FileService
+        .writeJSONFile({
+            data,
+            jsonfilepath: `./data/world/forex.json`,
         });
 }

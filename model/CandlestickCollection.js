@@ -1,8 +1,9 @@
+import App from '../app.js';
 import ArrayFn from '../utilities/ArrayFn.js';
 import CollectionService from '../resource/CollectionService.js';
 import MathFn from '../utilities/MathFn.js';
 
-const NUMBER_OF_CANDLESTICKS_A_YEAR = 252; // To calculate standard deviation
+const app = new App();
 export default function CandlestickCollection(symbol) {
     this.__symbol = symbol;
     this.__collection = [];
@@ -34,7 +35,7 @@ CandlestickCollection.prototype.push = function(candlestick) {
     if (this.hasCandlesticksMoreThanOneYear()) {
         const oneYearCollection = this
             .__collection
-            .slice(this.length() - NUMBER_OF_CANDLESTICKS_A_YEAR);
+            .slice(this.length() - app.getNumberOfCandlesticksAYear());
 
         const standardDeviation = MathFn
             .standardDeviation(oneYearCollection
@@ -82,7 +83,7 @@ CandlestickCollection.prototype.getLastCandlestick = function () {
 }
 
 CandlestickCollection.prototype.hasCandlesticksMoreThanOneYear = function () {
-    return this.length() > NUMBER_OF_CANDLESTICKS_A_YEAR;
+    return this.length() > app.getNumberOfCandlesticksAYear();
 }
 
 CandlestickCollection.prototype.isEmpty = function () {
@@ -134,5 +135,18 @@ CandlestickCollection.prototype.resetAllVolumeProfile = function () {
         }
     }
 
+    return this;
+}
+
+CandlestickCollection.prototype.map = function(callback) {
+    return this
+        .__collection
+        .map(callback);
+}
+
+CandlestickCollection.prototype.deleteIndex = function(index) {
+    this
+        .__collection
+        .splice(index, 1);
     return this;
 }

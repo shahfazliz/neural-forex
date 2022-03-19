@@ -133,6 +133,7 @@ Candlestick.prototype.raw = function() {
         volume: this.__volume,
         volumeProfile: this.__volumeProfile,
 
+        // for debugging purpose
         // closeDiff: this.__closeDiff,
         // highDiff: this.__highDiff,
         // lowDiff: this.__lowDiff,
@@ -140,4 +141,16 @@ Candlestick.prototype.raw = function() {
         // volumeDiff: this.__volumeDiff,
         // volumeProfileDiff: this.__volumeProfileDiff,
     };
+}
+
+Candlestick.prototype.getDay = function () {
+    return this
+        .__timestamp
+        .day();
+}
+
+Candlestick.prototype.getMonth = function () {
+    return this
+        .__timestamp
+        .month();
 }

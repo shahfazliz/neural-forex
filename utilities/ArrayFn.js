@@ -6,6 +6,7 @@
     getLastElement: arr => arr[arr.length - 1],
     getLastIndex: arr => arr.length - 1,
     isEmpty: arr => !arr.length,
+    promisedEach,
     randomize,
     remove: (arrA, arrB) => arrA.filter(arr => !arrB.includes(arr)),
     sortAscByKey: (arr, key) => arr.sort((a, b) => a[key] < b[key]),
@@ -30,4 +31,12 @@ function randomize(arr) {
     }
 
     return arr;
+}
+
+// Promised loop
+function promisedEach(arr, callback) {
+    return arr
+        .reduce((promise, value) => promise.then(() => {
+            return callback(value);
+        }), Promise.resolve())
 }
