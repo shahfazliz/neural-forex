@@ -37,7 +37,7 @@ function sigmoid(value) {
 }
 
 function precision(value) {
-    return parseFloat(value.toFixed(5));
+    return parseFloat(value.toFixed(4));
 }
 
 function standardDeviation(numbers) {

@@ -1,6 +1,7 @@
 import Candlestick from '../model/Candlestick.js';
 import CandlestickCollection from '../model/CandlestickCollection.js';
 import HTTPAdaptor from '../utilities/HTTPAdaptor.js';
+import MathFn from '../utilities/MathFn.js';
 
 export default function PolygonAPI() {
     
@@ -31,10 +32,10 @@ PolygonAPI.prototype.getDailyCandlestickCollection = function({
 
             results.forEach(result => {
                 const candlestick = new Candlestick({
-                    close: result.c,
-                    high: result.h,
-                    low: result.l,
-                    open: result.o,
+                    close: MathFn.precision(result.c),
+                    high: MathFn.precision(result.h),
+                    low: MathFn.precision(result.l),
+                    open: MathFn.precision(result.o),
                     timestamp: result.t,
                     volume: result.v,
                 });

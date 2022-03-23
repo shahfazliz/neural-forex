@@ -53,10 +53,10 @@ CandlestickCollection.prototype.push = function(candlestick) {
 }
 
 CandlestickCollection.prototype.updateVolumeProfile = function (candlestick) {
-    const priceLevels = (candlestick.getHigh() - candlestick.getLow()) * 100000 + 1;
+    const priceLevels = (candlestick.getHigh() - candlestick.getLow()) * 10000 + 1; // limit 4 decimal places
     const averageVolumePerPriceLevel = candlestick.getVolume() / priceLevels;
 
-    for (let price = candlestick.getLow(); price <= candlestick.getHigh(); price = MathFn.precision(price + 0.00001)) {
+    for (let price = candlestick.getLow(); price <= candlestick.getHigh(); price = MathFn.precision(price + 0.0001)) {
         this.__volumeProfile.set(
             `${price}`,
             this.__volumeProfile.has(`${price}`)

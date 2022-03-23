@@ -38,7 +38,10 @@ Promise
             // Check if all worlds have same amount of candles
             for (let i = 0; i < multipleCandlestickMap.length; i++) {
                 if (multipleCandlestickMap[i].length !== totalMapsPerSymbol) {
-                    reject(`Maps does not have the same amount of candles ${totalMapsPerSymbol} vs. ${multipleCandlestickMap[i].length}`);
+                    const firstSymbol = extractSymbolFromString([...multipleCandlestickMap[0][0].keys()][2]);
+                    const secondSymbol = extractSymbolFromString([...multipleCandlestickMap[i][0].keys()][2]);
+                    
+                    reject(`Maps does not have the same amount of candles ${firstSymbol}(${totalMapsPerSymbol}) vs. ${secondSymbol}(${multipleCandlestickMap[i].length})`);
                 }
             }
 
@@ -135,4 +138,8 @@ function updateData(symbol) {
                     return candlestickCollection;
                 });
         });
+}
+
+function extractSymbolFromString(str) {
+    return str.match(/^.{6}/)[0];
 }
