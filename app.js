@@ -14,12 +14,12 @@ export default function App() {
         'USDJPY',
         
         // Inconsistent number of candles
-        'AUDNZD',
-        'AUDUSD',
-        'EURCHF',
-        'EURJPY',
-        'NZDUSD',
-        'USDCHF',
+        // 'AUDNZD',
+        // 'AUDUSD',
+        // 'EURCHF',
+        // 'EURJPY',
+        // 'NZDUSD',
+        // 'USDCHF',
     ];
 
     this.__numberOfCandles = 50;
