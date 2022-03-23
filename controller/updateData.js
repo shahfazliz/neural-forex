@@ -4,7 +4,7 @@ import DateTimeAdaptor from '../utilities/DateTimeAdaptor.js';
 import PolygonAPI from '../resource/PolygonAPI.js';
 
 const api = new PolygonAPI();
-const API_START_DATE = '2020-03-15';
+const API_START_DATE = '2020-03-25';
 const app = new App();
 
 Promise

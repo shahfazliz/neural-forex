@@ -1,8 +1,23 @@
 export default function App() {
     this.__listOfCurrencies = [
+        'AUDCAD',
+        'AUDJPY',
+        'AUDNZD',
+        'AUDUSD',
+        'CHFJPY',
+        'EURAUD',
+        'EURCAD',
+        'EURCHF',
+        'EURGBP',
+        'EURJPY',
         'EURUSD',
-        'USDJPY',
+        'GBPCHF',
         'GBPJPY',
+        'GBPUSD',
+        'NZDUSD',
+        'USDCAD',
+        'USDCHF',
+        'USDJPY',
     ];
 
     this.__numberOfCandles = 50;

@@ -1,45 +1,5 @@
 [
     {
-        "close": 128.076,
-        "high": 129.567,
-        "low": 125.03,
-        "open": 125.716,
-        "standardDeviation": "N/A",
-        "timestamp": 1584576000000,
-        "volume": 1534974,
-        "volumeProfile": 17.712917086382905
-    },
-    {
-        "close": 129.159,
-        "high": 132.06,
-        "low": 127.847,
-        "open": 128.076,
-        "standardDeviation": "N/A",
-        "timestamp": 1584662400000,
-        "volume": 1175034,
-        "volumeProfile": 9.401185362677227
-    },
-    {
-        "close": 128.253,
-        "high": 129.112,
-        "low": 127.341,
-        "open": 128.44,
-        "standardDeviation": "N/A",
-        "timestamp": 1584921600000,
-        "volume": 1472016,
-        "volumeProfile": 17.712917086382905
-    },
-    {
-        "close": 131.106,
-        "high": 131.427,
-        "low": 127.999,
-        "open": 128.254,
-        "standardDeviation": "N/A",
-        "timestamp": 1585008000000,
-        "volume": 1106869,
-        "volumeProfile": 30.13019964598305
-    },
-    {
         "close": 131.281,
         "high": 133.397,
         "low": 129.852,
@@ -4097,7 +4057,7 @@
         "standardDeviation": 0.00461,
         "timestamp": 1634256000000,
         "volume": 157880,
-        "volumeProfile": 48.21781483955667
+        "volumeProfile": 49.88677308101084
     },
     {
         "close": 156.973,
@@ -4107,7 +4067,7 @@
         "standardDeviation": 0.00463,
         "timestamp": 1634515200000,
         "volume": 137330,
-        "volumeProfile": 29.643590269204584
+        "volumeProfile": 31.312548510658754
     },
     {
         "close": 157.96,
@@ -4117,7 +4077,7 @@
         "standardDeviation": 0.00462,
         "timestamp": 1634601600000,
         "volume": 122325,
-        "volumeProfile": 4.060698715831991
+        "volumeProfile": 4.735926388766837
     },
     {
         "close": 158.095,
@@ -4127,7 +4087,7 @@
         "standardDeviation": 0.00464,
         "timestamp": 1634688000000,
         "volume": 126139,
-        "volumeProfile": 2.1831182444869834
+        "volumeProfile": 2.858345917421829
     },
     {
         "close": 157,
@@ -4137,7 +4097,7 @@
         "standardDeviation": 0.00462,
         "timestamp": 1634774400000,
         "volume": 165746,
-        "volumeProfile": 28.051389053347933
+        "volumeProfile": 29.720347294802103
     },
     {
         "close": 156.21605,
@@ -4157,7 +4117,7 @@
         "standardDeviation": 0.00465,
         "timestamp": 1635120000000,
         "volume": 162198,
-        "volumeProfile": 48.21781483955667
+        "volumeProfile": 49.88677308101084
     },
     {
         "close": 157.171,
@@ -4167,7 +4127,7 @@
         "standardDeviation": 0.00464,
         "timestamp": 1635206400000,
         "volume": 156558,
-        "volumeProfile": 24.79479606711331
+        "volumeProfile": 26.46375430856748
     },
     {
         "close": 156.214,
@@ -4187,7 +4147,7 @@
         "standardDeviation": 0.00462,
         "timestamp": 1635379200000,
         "volume": 203844,
-        "volumeProfile": 44.59233608138338
+        "volumeProfile": 46.26129432283755
     },
     {
         "close": 155.9598,
@@ -4667,7 +4627,7 @@
         "standardDeviation": 0.00456,
         "timestamp": 1641254400000,
         "volume": 172775,
-        "volumeProfile": 24.79479606711331
+        "volumeProfile": 26.46375430856748
     },
     {
         "close": 157.395,
@@ -4677,7 +4637,7 @@
         "standardDeviation": 0.00459,
         "timestamp": 1641340800000,
         "volume": 176907,
-        "volumeProfile": 16.27377303662395
+        "volumeProfile": 17.94273127807812
     },
     {
         "close": 156.789,
@@ -4687,7 +4647,7 @@
         "standardDeviation": 0.00459,
         "timestamp": 1641427200000,
         "volume": 201518,
-        "volumeProfile": 40.65752693877156
+        "volumeProfile": 42.32648518022573
     },
     {
         "close": 157.07343,
@@ -4697,7 +4657,7 @@
         "standardDeviation": 0.00458,
         "timestamp": 1641513600000,
         "volume": 129792,
-        "volumeProfile": 28.051389053347933
+        "volumeProfile": 29.720347294802103
     },
     {
         "close": 156.529,
@@ -4707,7 +4667,7 @@
         "standardDeviation": 0.00458,
         "timestamp": 1641772800000,
         "volume": 170206,
-        "volumeProfile": 45.00272644114506
+        "volumeProfile": 46.67168468259923
     },
     {
         "close": 157.221,
@@ -4717,7 +4677,7 @@
         "standardDeviation": 0.00458,
         "timestamp": 1641859200000,
         "volume": 170249,
-        "volumeProfile": 23.373212513811612
+        "volumeProfile": 25.042170755265783
     },
     {
         "close": 157.13,
@@ -4727,7 +4687,7 @@
         "standardDeviation": 0.00458,
         "timestamp": 1641945600000,
         "volume": 163475,
-        "volumeProfile": 24.79479606711331
+        "volumeProfile": 26.46375430856748
     },
     {
         "close": 156.476,
@@ -4737,7 +4697,7 @@
         "standardDeviation": 0.00457,
         "timestamp": 1642032000000,
         "volume": 169679,
-        "volumeProfile": 53.20369253661433
+        "volumeProfile": 54.8726507780685
     },
     {
         "close": 156.0865,
@@ -4917,7 +4877,7 @@
         "standardDeviation": 0.00455,
         "timestamp": 1644278400000,
         "volume": 192998,
-        "volumeProfile": 53.20369253661433
+        "volumeProfile": 54.8726507780685
     },
     {
         "close": 156.428,
@@ -4927,7 +4887,7 @@
         "standardDeviation": 0.00456,
         "timestamp": 1644364800000,
         "volume": 179488,
-        "volumeProfile": 52.034485435845845
+        "volumeProfile": 53.703443677300015
     },
     {
         "close": 157.239,
@@ -4937,7 +4897,7 @@
         "standardDeviation": 0.00456,
         "timestamp": 1644451200000,
         "volume": 157896,
-        "volumeProfile": 23.373212513811612
+        "volumeProfile": 25.042170755265783
     },
     {
         "close": 156.41885,
@@ -4947,7 +4907,7 @@
         "standardDeviation": 0.00456,
         "timestamp": 1644537600000,
         "volume": 233082,
-        "volumeProfile": 52.034485435845845
+        "volumeProfile": 53.703443677300015
     },
     {
         "close": 156.333,
@@ -4967,7 +4927,7 @@
         "standardDeviation": 0.00453,
         "timestamp": 1644883200000,
         "volume": 226797,
-        "volumeProfile": 48.21781483955667
+        "volumeProfile": 49.88677308101084
     },
     {
         "close": 156.704,
@@ -4977,7 +4937,7 @@
         "standardDeviation": 0.00451,
         "timestamp": 1644969600000,
         "volume": 206954,
-        "volumeProfile": 46.36959511049673
+        "volumeProfile": 48.0385533519509
     },
     {
         "close": 156.341,
@@ -5017,7 +4977,7 @@
         "standardDeviation": 0.0045,
         "timestamp": 1645488000000,
         "volume": 262514,
-        "volumeProfile": 50.18195934799046
+        "volumeProfile": 51.85091758944463
     },
     {
         "close": 155.61,
@@ -5195,8 +5155,28 @@
         "low": 155.87,
         "open": 155.899,
         "standardDeviation": 0.00469,
-        "timestamp": 1647561600000,
+        "timestamp": 1647820800000,
         "volume": 205825,
-        "volumeProfile": 24.79479606711331
+        "volumeProfile": 26.46375430856748
+    },
+    {
+        "close": 157.477,
+        "high": 157.5164,
+        "low": 156.36,
+        "open": 156.93,
+        "standardDeviation": 0.0047,
+        "timestamp": 1647820800000,
+        "volume": 193000,
+        "volumeProfile": 12.71064056989074
+    },
+    {
+        "close": 160.952,
+        "high": 161.012,
+        "low": 157.44,
+        "open": 157.482,
+        "standardDeviation": 0.0047,
+        "timestamp": 1647907200000,
+        "volume": 241192,
+        "volumeProfile": 0.6752276729348456
     }
 ]
